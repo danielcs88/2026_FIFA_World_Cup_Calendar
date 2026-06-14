@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Mexico 🇲🇽 2 - 0 🇿🇦 South Africa (Match 1 - Group A)
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:1bd44c1a-aef6-c5bb-94bd-c40144ce8bc7
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021443\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -59,7 +59,7 @@ SUMMARY:South Korea 🇰🇷 2 - 1 🇨🇿 Czech Republic (Round 1 - Group
   A)
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:de03adf9-411a-c44e-e9f6-1a72226aa15c
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021441\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -109,7 +109,7 @@ SUMMARY:Canada 🇨🇦 1 - 1 🇧🇦 Bosnia and Herzegovina (Round 1 - Gr
  oup B)
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:7e70e94a-a685-0bb1-3a3c-23f283773bd8
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021449\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:USA 🇺🇸 4 - 1 🇵🇾 Paraguay (Round 1 - Group D)
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:aa7cc1d7-ea85-634f-49e4-99f398ebd4e7
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021458\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Qatar 🇶🇦 1 - 1 🇨🇭 Switzerland (Round 1 - Group B)
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:5d19ba79-1d4a-7931-0f93-ccb7a38dc343
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021447\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Brazil 🇧🇷 1 - 1 🇲🇦 Morocco (Round 1 - Group C)
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:13ebc29f-ebc8-9074-db8a-1de6a7d7f1a2
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021456\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -308,7 +308,7 @@ SUMMARY:Haiti 🇭🇹 0 - 1 󠁳󠁣🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
  (Round 1 - Group C)
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:74a7668d-8822-0a90-9db4-8129a1b85b90
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021453\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:Australia 🇦🇺 2 - 0 🇹🇷 Turkey (Round 1 - Group D)
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:8243d8be-ec19-93f8-ecfb-d0507f32112a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021463\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Germany 🇩🇪 7 - 1 🇨🇼 Curaçao (Round 1 - Group E)
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:6100b4ae-5452-6233-8ee1-b3ea36f9c58a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021464\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Netherlands 🇳🇱 - 🇯🇵 Japan (Round 1 - Group F)
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:f36a88f0-9359-30e6-8ad4-f987354c3138
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021470\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:Côte d'Ivoire 🇨🇮 - 🇪🇨 Ecuador (Round 1 - Group E)
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:d866ac98-bf16-88ca-36da-d70ee5fcccfe
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021467\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -537,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:Sweden 🇸🇪 - 🇹🇳 Tunisia (Match 1 - Group F)
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:7b459124-5265-d1d3-5c52-1b1148f851a0
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021474\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -570,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:Spain 🇪🇸 - 🇨🇻 Cape Verde (Match 1 - Group H)
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:685e99c3-8810-d10f-21c6-a2cf53864648
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021482\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -603,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:Belgium 🇧🇪 - 🇪🇬 Egypt (Match 1 - Group G)
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:73a0ce2b-826a-8df2-d4ff-8ae33f592073
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021478\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -637,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:Saudi Arabia 🇸🇦 - 🇺🇾 Uruguay (Match 1 - Group H)
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:e69e5a8f-87c9-16bd-f45b-cd02937e1018
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021486\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -674,7 +674,7 @@ BEGIN:VEVENT
 SUMMARY:Iran 🇮🇷 - 🇳🇿 New Zealand (Match 1 - Group G)
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:6554cf7b-8085-bf6b-4902-0beff4e57164
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021476\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -709,7 +709,7 @@ BEGIN:VEVENT
 SUMMARY:France 🇫🇷 - 🇸🇳 Senegal (Match 1 - Group I)
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:77adf94f-02fa-44f7-9d46-f5a295ecb843
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021490\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -731,7 +731,7 @@ BEGIN:VEVENT
 SUMMARY:Iraq 🇮🇶 - 🇳🇴 Norway (Match 1 - Group I)
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:04cdbaa8-462a-d597-c232-82bf7aa5b73d
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021488\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -753,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:Argentina 🇦🇷 - 🇩🇿 Algeria (Match 1 - Group J)
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:706f41e9-bc84-4ed1-4148-d74279f9901c
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021496\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -776,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:Austria 🇦🇹 - 🇯🇴 Jordan (Match 1 - Group J)
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:ee0f0143-3162-d1bb-3b54-5e2a01dfc8e0
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021498\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -799,7 +799,7 @@ SUMMARY:Portugal 🇵🇹 - 🇨🇩 Democratic Republic of the Congo (Matc
  h 1 - Group K)
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:29c66305-1018-66a8-ffd5-d142e0c1f578
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021502\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -823,7 +823,7 @@ SUMMARY:England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 - 🇭🇷 Croatia (Match 1 -
  Group L)
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:3c58954c-6825-16af-6d8c-fd5060a4d1ed
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021507\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -846,7 +846,7 @@ BEGIN:VEVENT
 SUMMARY:Ghana 🇬🇭 - 🇵🇦 Panama (Match 1 - Group L)
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:3df58f1e-930b-3df0-2584-8cf9e0fd9984
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021510\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -865,7 +865,7 @@ BEGIN:VEVENT
 SUMMARY:Uzbekistan 🇺🇿 - 🇨🇴 Colombia (Match 1 - Group K)
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:2eb6eaeb-b0fa-399e-5966-ef7ba85d52db
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021504\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -884,7 +884,7 @@ BEGIN:VEVENT
 SUMMARY:Czech Republic 🇨🇿 - 🇿🇦 South Africa (Match 2 - Group A)
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:b3d281af-4a93-8fdc-f082-cfa52400d2cd
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021440\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -904,7 +904,7 @@ SUMMARY:Switzerland 🇨🇭 - 🇧🇦 Bosnia and Herzegovina (Match 2 - G
  roup B)
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:55e16546-d5fe-5b30-3ff4-4f082fcef6ae
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021446\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -923,7 +923,7 @@ BEGIN:VEVENT
 SUMMARY:Canada 🇨🇦 - 🇶🇦 Qatar (Match 2 - Group B)
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:c1c0e32f-8663-326d-16d4-cf61c3d65223
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021450\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -942,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:Mexico 🇲🇽 - 🇰🇷 South Korea (Match 2 - Group A)
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:be0601be-aa20-2510-ae43-78c69cf49b58
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021442\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -961,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:USA 🇺🇸 - 🇦🇺 Australia (Match 2 - Group D)
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:b31a6959-5623-6e9c-ddd8-22375619796f
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021462\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -981,7 +981,7 @@ SUMMARY:Scotland 󠁳󠁣🏴󠁧󠁢󠁳󠁣󠁴󠁿 - 🇲🇦 Morocco (M
  atch 2 - Group C)
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:cacba953-21a8-d989-1588-9826a321770f
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021454\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1000,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:Brazil 🇧🇷 - 🇭🇹 Haiti (Match 2 - Group C)
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:798679f6-1a39-9faa-97a7-204564c949c5
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021457\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1019,7 +1019,7 @@ BEGIN:VEVENT
 SUMMARY:Turkey 🇹🇷 - 🇵🇾 Paraguay (Match 2 - Group D)
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:87fbefe2-eae9-c467-8dce-684b3d95d90f
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021460\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1038,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:Netherlands 🇳🇱 - 🇸🇪 Sweden (Match 2 - Group F)
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:4a9c8e8f-ea38-40d2-8e40-cf4f64fe65f1
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021472\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1057,7 +1057,7 @@ BEGIN:VEVENT
 SUMMARY:Germany 🇩🇪 - 🇨🇮 Côte d'Ivoire (Match 2 - Group E)
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:5e5984a1-0234-84d1-3c0c-233a76f349ec
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021469\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1076,7 +1076,7 @@ BEGIN:VEVENT
 SUMMARY:Ecuador 🇪🇨 - 🇨🇼 Curaçao (Match 2 - Group E)
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:cec7c408-3284-11d6-eaa4-a7f6e77fc0ac
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021465\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1095,7 +1095,7 @@ BEGIN:VEVENT
 SUMMARY:Tunisia 🇹🇳 - 🇯🇵 Japan (Match 2 - Group F)
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:9d0e479b-ff8c-e1ed-e0cb-f803db07d393
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021475\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1114,7 +1114,7 @@ BEGIN:VEVENT
 SUMMARY:Spain 🇪🇸 - 🇸🇦 Saudi Arabia (Match 2 - Group H)
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:074eaf80-cd70-09d4-e2da-a2f928dff987
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021483\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1133,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:Belgium 🇧🇪 - 🇮🇷 Iran (Match 2 - Group G)
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:28e08d69-b780-34e4-2902-bc54d7ecb155
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021477\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1152,7 +1152,7 @@ BEGIN:VEVENT
 SUMMARY:Uruguay 🇺🇾 - 🇨🇻 Cape Verde (Match 2 - Group H)
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:6dca3947-db01-4af4-6a26-382171c86363
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021487\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1171,7 +1171,7 @@ BEGIN:VEVENT
 SUMMARY:New Zealand 🇳🇿 - 🇪🇬 Egypt (Match 2 - Group G)
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:36f0275c-6f27-cccc-8b37-66afe525ef5f
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021480\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1190,7 +1190,7 @@ BEGIN:VEVENT
 SUMMARY:Argentina 🇦🇷 - 🇦🇹 Austria (Match 2 - Group J)
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:e9f33b56-65cc-a97e-7d72-1baa0b1906db
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021494\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1209,7 +1209,7 @@ BEGIN:VEVENT
 SUMMARY:France 🇫🇷 - 🇮🇶 Iraq (Match 2 - Group I)
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:38a35864-91e9-2604-4ea2-617faf68df8a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021492\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1228,7 +1228,7 @@ BEGIN:VEVENT
 SUMMARY:Norway 🇳🇴 - 🇸🇳 Senegal (Match 2 - Group I)
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:29dbc011-5b56-dd54-76f3-bdaa43ab1626
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021491\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1247,7 +1247,7 @@ BEGIN:VEVENT
 SUMMARY:Jordan 🇯🇴 - 🇩🇿 Algeria (Match 2 - Group J)
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:1c3c0a32-2ac9-1b07-a095-c660cb410995
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021499\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1266,7 +1266,7 @@ BEGIN:VEVENT
 SUMMARY:Portugal 🇵🇹 - 🇺🇿 Uzbekistan (Match 2 - Group K)
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:98abc6b7-f296-f396-7e1c-40a76ce2780f
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021503\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1286,7 +1286,7 @@ SUMMARY:England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 - 🇬🇭 Ghana (Match 2 - Gr
  oup L)
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:1f191814-0c07-68af-a390-d00dcb007335
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021506\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1305,7 +1305,7 @@ BEGIN:VEVENT
 SUMMARY:Panama 🇵🇦 - 🇭🇷 Croatia (Match 2 - Group L)
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:64d2261d-e025-b122-fa80-ae27cc16b1a1
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021511\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1325,7 +1325,7 @@ SUMMARY:Colombia 🇨🇴 - 🇨🇩 Democratic Republic of the Congo (Matc
  h 2 - Group K)
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:9fe3e79c-b3ef-de29-fa3b-b1a61bb95e4d
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021501\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1344,7 +1344,7 @@ BEGIN:VEVENT
 SUMMARY:Switzerland 🇨🇭 - 🇨🇦 Canada (Match 3 - Group B)
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:84f96e11-c685-9241-786e-16f8ad4d7756
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021451\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1364,7 +1364,7 @@ SUMMARY:Bosnia and Herzegovina 🇧🇦 - 🇶🇦 Qatar (Match 3 - Group B
  )
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:3202e0de-89cd-66df-7a81-1b29f6846331
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021448\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1384,7 +1384,7 @@ SUMMARY:Scotland 󠁳󠁣🏴󠁧󠁢󠁳󠁣󠁴󠁿 - 🇧🇷 Brazil (Ma
  tch 3 - Group C)
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:87f003b8-f89f-8c85-e73e-488e02b400c2
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021455\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1403,7 +1403,7 @@ BEGIN:VEVENT
 SUMMARY:Morocco 🇲🇦 - 🇭🇹 Haiti (Match 3 - Group C)
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:4cfc8c93-e3e7-84fd-b972-8be37bf055fd
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021452\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1422,7 +1422,7 @@ BEGIN:VEVENT
 SUMMARY:South Africa 🇿🇦 - 🇰🇷 South Korea (Match 3 - Group A)
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:181723c8-4315-86ee-cb1b-dfe0b0b1f5a2
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021445\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1441,7 +1441,7 @@ BEGIN:VEVENT
 SUMMARY:Czech Republic 🇨🇿 - 🇲🇽 Mexico (Match 3 - Group A)
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:74fa13ab-9629-0181-36e1-1032ea92caaf
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021444\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1460,7 +1460,7 @@ BEGIN:VEVENT
 SUMMARY:Ecuador 🇪🇨 - 🇩🇪 Germany (Match 3 - Group E)
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:1c047a94-b5fc-79db-8313-dfc8f54fbe66
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021466\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1479,7 +1479,7 @@ BEGIN:VEVENT
 SUMMARY:Curaçao 🇨🇼 - 🇨🇮 Côte d'Ivoire (Match 3 - Group E)
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:a0e3cd24-14d4-b320-9048-52dc7e69f150
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021468\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1498,7 +1498,7 @@ BEGIN:VEVENT
 SUMMARY:Tunisia 🇹🇳 - 🇳🇱 Netherlands (Match 3 - Group F)
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:cc82fa9f-2e0c-f1ad-972c-e7164908b15d
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021473\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1518,7 +1518,7 @@ BEGIN:VEVENT
 SUMMARY:Japan 🇯🇵 - 🇸🇪 Sweden (Match 3 - Group F)
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:1159c8fb-233c-8dd4-405b-fc3e2a64134e
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021471\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1537,7 +1537,7 @@ BEGIN:VEVENT
 SUMMARY:Paraguay 🇵🇾 - 🇦🇺 Australia (Match 3 - Group D)
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:1a15d5b6-e662-a803-e71e-257e9a376f4a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021461\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1556,7 +1556,7 @@ BEGIN:VEVENT
 SUMMARY:Turkey 🇹🇷 - 🇺🇸 USA (Match 3 - Group D)
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:eecd8e96-f30b-e1d1-a20f-492dedfa09e3
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021459\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1575,7 +1575,7 @@ BEGIN:VEVENT
 SUMMARY:Norway 🇳🇴 - 🇫🇷 France (Match 3 - Group I)
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:d0f3c3e9-4ca7-34f5-896d-f4c43962d34b
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021489\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1594,7 +1594,7 @@ BEGIN:VEVENT
 SUMMARY:Senegal 🇸🇳 - 🇮🇶 Iraq (Match 3 - Group I)
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:65686a7a-db52-84de-27ea-7a1857153bb3
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021493\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1613,7 +1613,7 @@ BEGIN:VEVENT
 SUMMARY:Uruguay 🇺🇾 - 🇪🇸 Spain (Match 3 - Group H)
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:05fc994e-7e7e-6fc1-8eec-25a387298062
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021484\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1632,7 +1632,7 @@ BEGIN:VEVENT
 SUMMARY:Cape Verde 🇨🇻 - 🇸🇦 Saudi Arabia (Match 3 - Group H)
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:a5955169-ea55-1201-e297-be9fbb4766d9
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021485\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1651,7 +1651,7 @@ BEGIN:VEVENT
 SUMMARY:New Zealand 🇳🇿 - 🇧🇪 Belgium (Match 3 - Group G)
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:7cf43fb4-9465-1078-5381-fff8b59a4450
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021481\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1670,7 +1670,7 @@ BEGIN:VEVENT
 SUMMARY:Egypt 🇪🇬 - 🇮🇷 Iran (Match 3 - Group G)
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:b9213a52-0af7-3353-f73a-72e95325d9ed
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021479\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1690,7 +1690,7 @@ SUMMARY:Panama 🇵🇦 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (Match 3 - G
  roup L)
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:ead7941f-752d-ad7a-12bf-5753f9aebbf9
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021508\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1709,7 +1709,7 @@ BEGIN:VEVENT
 SUMMARY:Croatia 🇭🇷 - 🇬🇭 Ghana (Match 3 - Group L)
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:5a573340-12ef-dd36-e5ae-d647c19da3c1
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021509\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1728,7 +1728,7 @@ BEGIN:VEVENT
 SUMMARY:Colombia 🇨🇴 - 🇵🇹 Portugal (Match 3 - Group K)
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:e6058669-95fc-88d6-c9fa-6e6be0ad771c
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021505\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1748,7 +1748,7 @@ SUMMARY:Democratic Republic of the Congo 🇨🇩 - 🇺🇿 Uzbekistan (Ma
  tch 3 - Group K)
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:b090691a-fef4-47ab-b0f8-6bec8bb030dd
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021500\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1767,7 +1767,7 @@ BEGIN:VEVENT
 SUMMARY:Jordan 🇯🇴 - 🇦🇷 Argentina (Match 3 - Group J)
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:922c1ee4-f863-a9fb-55df-390f7cc6af4a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021495\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1786,7 +1786,7 @@ BEGIN:VEVENT
 SUMMARY:Algeria 🇩🇿 - 🇦🇹 Austria (Match 3 - Group J)
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:4fb91e74-29ac-3242-2e6c-9c13aeebff9a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021497\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1805,7 +1805,7 @@ BEGIN:VEVENT
 SUMMARY:2A - 2B (Round of 32 (73))
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:8f3e0889-b48e-cbbe-d95e-99e48abbd848
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021518\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1822,7 +1822,7 @@ BEGIN:VEVENT
 SUMMARY:1C - 2F (Round of 32 (76))
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:3ae6911a-ca33-227f-b10c-07a071c03441
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021516\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1839,7 +1839,7 @@ BEGIN:VEVENT
 SUMMARY:1E - 3ABCDF (Round of 32 (74))
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:8a0fe1c9-aa7a-2e92-be9f-c4527d856fb4
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021513\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1856,7 +1856,7 @@ BEGIN:VEVENT
 SUMMARY:1F - 2C (Round of 32 (75))
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:97180fce-97ed-9d4a-d345-654a9b2a1f98
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021522\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1873,7 +1873,7 @@ BEGIN:VEVENT
 SUMMARY:2E - 2I (Round of 32 (78))
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:934e916d-b388-82ea-a6bd-3059b64c11e4
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021514\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1890,7 +1890,7 @@ BEGIN:VEVENT
 SUMMARY:1I - 3CDFGH (Round of 32 (77))
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:832c07e7-d42a-2c9a-654d-5d95e8f5323a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021523\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1907,7 +1907,7 @@ BEGIN:VEVENT
 SUMMARY:1A - 3CEFHI (Round of 32 (79))
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:27ef886f-7df2-f4fa-345b-0c40ec2e0d19
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021520\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1924,7 +1924,7 @@ BEGIN:VEVENT
 SUMMARY:1L - 3EHIJK (Round of 32 (80))
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:66145f3c-7f90-4299-fabc-eaa0b46a72b1
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021512\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1941,7 +1941,7 @@ BEGIN:VEVENT
 SUMMARY:1G - 3AEHIJ (Round of 32 (82))
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:a1d9a47a-c9b1-bba6-13d1-d542483d1359
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021525\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1958,7 +1958,7 @@ BEGIN:VEVENT
 SUMMARY:1D - 3BEFIJ (Round of 32 (81))
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:a05c9d8d-afca-8c88-ed7e-c6e9370966c3
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021524\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1975,7 +1975,7 @@ BEGIN:VEVENT
 SUMMARY:1H - 2J (Round of 32 (84))
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:795e6967-2d8c-b5a6-455e-9dba92a08062
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021519\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -1992,7 +1992,7 @@ BEGIN:VEVENT
 SUMMARY:2K - 2L (Round of 32 (83))
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:de117a8d-f97e-5497-4fb7-a19b82e45fa8
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021526\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2009,7 +2009,7 @@ BEGIN:VEVENT
 SUMMARY:1B - 3EFGIJ (Round of 32 (85))
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:6bbc7ce7-1101-b3ae-4793-93fd7cf0ce1a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021527\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2026,7 +2026,7 @@ BEGIN:VEVENT
 SUMMARY:2D - 2G (Round of 32 (88))
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:667bdd5e-792d-3f0d-5d43-79b50c0fd042
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021515\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2043,7 +2043,7 @@ BEGIN:VEVENT
 SUMMARY:1J - 2H (Round of 32 (86))
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:66738b46-e4fc-4029-0863-f410e26a274d
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021521\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2060,7 +2060,7 @@ BEGIN:VEVENT
 SUMMARY:1K - 3DEIJL (Round of 32 (87))
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:5efa0611-4cef-27b9-640b-6440cda7eea4
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021517\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2077,7 +2077,7 @@ BEGIN:VEVENT
 SUMMARY:W73 - W75 (Round of 16 (90))
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:4023010a-3149-9ad9-e872-f03c19519659
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021530\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2094,7 +2094,7 @@ BEGIN:VEVENT
 SUMMARY:W74 - W77 (Round of 16 (89))
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:9b6c4035-a4d7-cbba-f28b-9938d88dfa31
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021533\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2111,7 +2111,7 @@ BEGIN:VEVENT
 SUMMARY:W76 - W78 (Round of 16 (91))
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:d6d270ed-6f7b-1af9-dcbe-9737ad896534
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021532\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2128,7 +2128,7 @@ BEGIN:VEVENT
 SUMMARY:W79 - W80 (Round of 16 (92))
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:e0aa5362-2077-c447-9766-a44211ef35ba
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021531\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2145,7 +2145,7 @@ BEGIN:VEVENT
 SUMMARY:W83 - W84 (Round of 16 (93))
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:fd9d210c-cfa8-c4a8-0879-efd6603ff3a0
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021529\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2162,7 +2162,7 @@ BEGIN:VEVENT
 SUMMARY:W81 - W82 (Round of 16 (94))
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:df3e7a3a-0c97-fcbf-6b30-c5907783b347
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021534\n\n\n\n\nTV\nFOX One (https://www.fox.com/soccer/fifa
@@ -2179,7 +2179,7 @@ BEGIN:VEVENT
 SUMMARY:W86 - W88 (Round of 16 (95))
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:710227d9-b453-e388-c17c-2f53140b67a1
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021528\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2196,7 +2196,7 @@ BEGIN:VEVENT
 SUMMARY:W85 - W87 (Round of 16 (96))
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:4fbf573f-417a-a7c1-ee60-a98010f0dc1b
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021535\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2213,7 +2213,7 @@ BEGIN:VEVENT
 SUMMARY:W89 - W90 (Quarter Final (97))
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:1dc12401-62ed-be31-e4f4-65777a24ae20
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289289/400021536\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2230,7 +2230,7 @@ BEGIN:VEVENT
 SUMMARY:W93 - W94 (Quarter Final (98))
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:48bcf9aa-d1dd-c9d5-3f0f-5099fd1434b8
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289289/400021538\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2247,7 +2247,7 @@ BEGIN:VEVENT
 SUMMARY:W91 - W92 (Quarter Final (99))
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:c267b677-1be3-e08c-7b8f-a6434a42e3d3
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289289/400021539\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2264,7 +2264,7 @@ BEGIN:VEVENT
 SUMMARY:W95 - W96 (Quarter Final (100))
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:fc47b747-a524-699a-8e26-147e3461cd96
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289289/400021537\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2281,7 +2281,7 @@ BEGIN:VEVENT
 SUMMARY:W97 - W98 (Semi Final (101))
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:25598dfe-cd75-5172-28bb-55d7c1466ed3
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289290/400021541\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2298,7 +2298,7 @@ BEGIN:VEVENT
 SUMMARY:W99 - W100 (Semi Final (102))
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:a92258e6-2c30-d89b-ea46-e1e91d067f6c
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289290/400021540\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2315,7 +2315,7 @@ BEGIN:VEVENT
 SUMMARY:RU101 - RU102 (Third Place (103))
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:de494651-a960-c7fe-a410-4a4e234be4b5
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289291/400021542\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2332,7 +2332,7 @@ BEGIN:VEVENT
 SUMMARY:W101 - W102 (Final (104))
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
-DTSTAMP:20260614T203714Z
+DTSTAMP:20260614T220119Z
 UID:f064ffbc-ca5f-8cfd-422d-af5dfda8e12e
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289292/400021543\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
