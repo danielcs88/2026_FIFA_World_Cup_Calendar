@@ -251,15 +251,15 @@ def process_summary(value: str) -> str:
 
 def process_line(line: str) -> str:
     if line.startswith("SUMMARY:"):
-        return "SUMMARY:" + process_summary(line[len("SUMMARY:"):])
+        return "SUMMARY:" + process_summary(line[len("SUMMARY:") :])
 
     if line.startswith("DESCRIPTION:"):
-        value = apply_renames(line[len("DESCRIPTION:"):])
+        value = apply_renames(line[len("DESCRIPTION:") :])
         value = re.sub(r" {2,}", " ", value)
         return "DESCRIPTION:" + value
 
     if line.startswith("LOCATION:"):
-        return "LOCATION:" + apply_renames(line[len("LOCATION:"):])
+        return "LOCATION:" + apply_renames(line[len("LOCATION:") :])
 
     return line
 
