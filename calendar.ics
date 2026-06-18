@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Mexico 🇲🇽 2 - 0 🇿🇦 South Africa (Match 1 - Group A)
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:1bd44c1a-aef6-c5bb-94bd-c40144ce8bc7
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021443\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -59,7 +59,7 @@ SUMMARY:South Korea 🇰🇷 2 - 1 🇨🇿 Czech Republic (Round 1 - Group
   A)
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:de03adf9-411a-c44e-e9f6-1a72226aa15c
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021441\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -109,7 +109,7 @@ SUMMARY:Canada 🇨🇦 1 - 1 🇧🇦 Bosnia and Herzegovina (Round 1 - Gr
  oup B)
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:7e70e94a-a685-0bb1-3a3c-23f283773bd8
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021449\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:USA 🇺🇸 4 - 1 🇵🇾 Paraguay (Round 1 - Group D)
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:aa7cc1d7-ea85-634f-49e4-99f398ebd4e7
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021458\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Qatar 🇶🇦 1 - 1 🇨🇭 Switzerland (Round 1 - Group B)
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:5d19ba79-1d4a-7931-0f93-ccb7a38dc343
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021447\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Brazil 🇧🇷 1 - 1 🇲🇦 Morocco (Round 1 - Group C)
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:13ebc29f-ebc8-9074-db8a-1de6a7d7f1a2
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021456\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -308,7 +308,7 @@ SUMMARY:Haiti 🇭🇹 0 - 1 󠁳󠁣🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
  (Round 1 - Group C)
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:74a7668d-8822-0a90-9db4-8129a1b85b90
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021453\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:Australia 🇦🇺 2 - 0 🇹🇷 Turkey (Round 1 - Group D)
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:8243d8be-ec19-93f8-ecfb-d0507f32112a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021463\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Germany 🇩🇪 7 - 1 🇨🇼 Curaçao (Round 1 - Group E)
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:6100b4ae-5452-6233-8ee1-b3ea36f9c58a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021464\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Netherlands 🇳🇱 2 - 2 🇯🇵 Japan (Round 1 - Group F)
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:f36a88f0-9359-30e6-8ad4-f987354c3138
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021470\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -506,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:Côte d'Ivoire 🇨🇮 1 - 0 🇪🇨 Ecuador (Round 1 - Group E)
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:d866ac98-bf16-88ca-36da-d70ee5fcccfe
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021467\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -554,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:Sweden 🇸🇪 5 - 1 🇹🇳 Tunisia (Round 1 - Group F)
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:7b459124-5265-d1d3-5c52-1b1148f851a0
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021474\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -604,7 +604,7 @@ BEGIN:VEVENT
 SUMMARY:Spain 🇪🇸 0 - 0 🇨🇻 Cape Verde (Round 1 - Group H)
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:685e99c3-8810-d10f-21c6-a2cf53864648
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021482\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -650,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:Belgium 🇧🇪 1 - 1 🇪🇬 Egypt (Round 1 - Group G)
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:73a0ce2b-826a-8df2-d4ff-8ae33f592073
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021478\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -697,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Saudi Arabia 🇸🇦 1 - 1 🇺🇾 Uruguay (Round 1 - Group H)
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:e69e5a8f-87c9-16bd-f45b-cd02937e1018
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021486\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -746,7 +746,7 @@ BEGIN:VEVENT
 SUMMARY:Iran 🇮🇷 2 - 2 🇳🇿 New Zealand (Round 1 - Group G)
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:6554cf7b-8085-bf6b-4902-0beff4e57164
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021476\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -795,7 +795,7 @@ BEGIN:VEVENT
 SUMMARY:France 🇫🇷 3 - 1 🇸🇳 Senegal (Round 1 - Group I)
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:77adf94f-02fa-44f7-9d46-f5a295ecb843
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021490\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -843,7 +843,7 @@ BEGIN:VEVENT
 SUMMARY:Iraq 🇮🇶 1 - 4 🇳🇴 Norway (Round 1 - Group I)
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:04cdbaa8-462a-d597-c232-82bf7aa5b73d
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021488\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -892,7 +892,7 @@ BEGIN:VEVENT
 SUMMARY:Argentina 🇦🇷 3 - 0 🇩🇿 Algeria (Round 1 - Group J)
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:706f41e9-bc84-4ed1-4148-d74279f9901c
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021496\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -940,7 +940,7 @@ BEGIN:VEVENT
 SUMMARY:Austria 🇦🇹 3 - 1 🇯🇴 Jordan (Round 1 - Group J)
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:ee0f0143-3162-d1bb-3b54-5e2a01dfc8e0
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021498\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -991,7 +991,7 @@ SUMMARY:Portugal 🇵🇹 1 - 1 🇨🇩 Democratic Republic of the Congo (
  Round 1 - Group K)
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:29c66305-1018-66a8-ffd5-d142e0c1f578
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021502\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1040,7 +1040,7 @@ SUMMARY:England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 4 - 2 🇭🇷 Croatia (Round
  1 - Group L)
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:3c58954c-6825-16af-6d8c-fd5060a4d1ed
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021507\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1089,7 +1089,7 @@ BEGIN:VEVENT
 SUMMARY:Ghana 🇬🇭 1 - 0 🇵🇦 Panama (Round 1 - Group L)
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:3df58f1e-930b-3df0-2584-8cf9e0fd9984
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021510\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1102,41 +1102,42 @@ DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  /fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3
  A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nhttps://ww
  w.livesoccertv.com/competitions/international/world-cup/\n\n\nVIDEO\nhttps
- ://www.fifa.com/en/watch/5yGWUJLlTqyvKydpUvLJnU (Match highlights)\nhttps:
- //media.lsmedialib.com/embed/13f43441-c149-418e-8217-185bda8c52cf/563c7d54
- -2c28-4e25-96fc-996edd33981c (Video preview)\nhttps://media.lsmedialib.com
- /embed/47b3c843-8795-407d-9ceb-ce41f975f2a3/5a2c015d-59f3-41ca-af1e-3b7768
- 593225 (Video preview)\n\n\nGOALS:\n2nd Half\n90'+5 Goal - Yirenkyi C. (Th
- omas-Asante B.)\n\n\n\nLINEUPS\nGhana: 4-4-1-1\n1. - G - Lawrence Ati Zigi
-  (1)\n2. - D - Marvin Senaya (26)\n3. - M - Jonas Adjei Adjetey (4)\n4. - 
- M - Jerome Opoku (18)\n5. - M - Gideon Mensah (14)\n6. - M - Ernest Nuamah
-  (24)\n7. - M - Caleb Yirenkyi (3)\n8. - M - Elisha Owusu (15)\n9. - M - A
- ntoine Semenyo (11)\n10. - M - Kamaldeen Sulemana (22)\n11. - F - Jordan A
- yew (9) (c)\n----\n12. - S - Prince Adu (25)\n13. - S - Joseph Anang (12)\
- n14. - S - Benjamin Asare (16)\n15. - S - Abdul Baba (17)\n16. - S - Augus
- tine Boakye (20)\n17. - S - Christopher Baah (13)\n18. - S - Abdul Fatawu 
- Issahaku (7)\n19. - S - Derrick Luckassen (23)\n20. - S - Abdul Mumin (6)\
- n21. - S - Kojo Peprah Oppong (21)\n22. - S - Alidu Seidu (2)\n23. - S - K
- wasi Sibo (8)\n24. - S - Brandon Thomas-Asante (10)\n25. - S - Iñaki Will
- iams (19)\nMissing players:\nThomas Partey (Inactive)\n\nPanama: 3-4-3\n1.
-  - G - Orlando Mosquera (22)\n2. - D - Jiovany Ramos (13)\n3. - M - José 
- Córdoba (3)\n4. - M - Andrés Andrade (16)\n5. - M - Michael Murillo (23)
- \n6. - M - Carlos Harvey (14)\n7. - M - Yoel Bárcenas (11) (c)\n8. - M - 
- César Blackman (2)\n9. - M - Cristian Martínez (6)\n10. - M - Cecilio Wa
- terman (18)\n11. - F - José Luis Rodríguez (7)\n----\n12. - S - Adalbert
- o Carrasquilla (8)\n13. - S - Éric Davis (15)\n14. - S - Ismael Díaz (10
- )\n15. - S - Fidel Escobar (4)\n16. - S - José Fajardo (17)\n17. - S - Ed
- gardo Fariña (5)\n18. - S - Aníbal Godoy (20)\n19. - S - Jorge Gutierrez
-  (26)\n20. - S - Azarias Londono (24)\n21. - S - Luis Mejía (1)\n22. - S 
- - Roderick Miller (25)\n23. - S - Alberto Quintero (19)\n24. - S - Tomas R
- odriguez (9)\n25. - S - César Samudio (12)\n26. - S - César Yanis (21)\n
+ ://tn.nova.cz/video/5615-fotbalove-sestrihy/557166-ms-ve-fotbale-2026-sest
+ rih-ghana-vs-panama-18-6-2026 (Match highlights)\nhttps://media.lsmedialib
+ .com/embed/13f43441-c149-418e-8217-185bda8c52cf/563c7d54-2c28-4e25-96fc-99
+ 6edd33981c (Video preview)\nhttps://media.lsmedialib.com/embed/47b3c843-87
+ 95-407d-9ceb-ce41f975f2a3/5a2c015d-59f3-41ca-af1e-3b7768593225 (Video prev
+ iew)\n\n\nGOALS:\n2nd Half\n90'+5 Goal - Yirenkyi C. (Thomas-Asante B.)\n\
+ n\n\nLINEUPS\nGhana: 4-4-1-1\n1. - G - Lawrence Ati Zigi (1)\n2. - D - Mar
+ vin Senaya (26)\n3. - M - Jonas Adjei Adjetey (4)\n4. - M - Jerome Opoku (
+ 18)\n5. - M - Gideon Mensah (14)\n6. - M - Ernest Nuamah (24)\n7. - M - Ca
+ leb Yirenkyi (3)\n8. - M - Elisha Owusu (15)\n9. - M - Antoine Semenyo (11
+ )\n10. - M - Kamaldeen Sulemana (22)\n11. - F - Jordan Ayew (9) (c)\n----\
+ n12. - S - Prince Adu (25)\n13. - S - Joseph Anang (12)\n14. - S - Benjami
+ n Asare (16)\n15. - S - Abdul Baba (17)\n16. - S - Augustine Boakye (20)\n
+ 17. - S - Christopher Baah (13)\n18. - S - Abdul Fatawu Issahaku (7)\n19. 
+ - S - Derrick Luckassen (23)\n20. - S - Abdul Mumin (6)\n21. - S - Kojo Pe
+ prah Oppong (21)\n22. - S - Alidu Seidu (2)\n23. - S - Kwasi Sibo (8)\n24.
+  - S - Brandon Thomas-Asante (10)\n25. - S - Iñaki Williams (19)\nMissing
+  players:\nThomas Partey (Inactive)\n\nPanama: 3-4-3\n1. - G - Orlando Mos
+ quera (22)\n2. - D - Jiovany Ramos (13)\n3. - M - José Córdoba (3)\n4. -
+  M - Andrés Andrade (16)\n5. - M - Michael Murillo (23)\n6. - M - Carlos 
+ Harvey (14)\n7. - M - Yoel Bárcenas (11) (c)\n8. - M - César Blackman (2
+ )\n9. - M - Cristian Martínez (6)\n10. - M - Cecilio Waterman (18)\n11. -
+  F - José Luis Rodríguez (7)\n----\n12. - S - Adalberto Carrasquilla (8)
+ \n13. - S - Éric Davis (15)\n14. - S - Ismael Díaz (10)\n15. - S - Fidel
+  Escobar (4)\n16. - S - José Fajardo (17)\n17. - S - Edgardo Fariña (5)\
+ n18. - S - Aníbal Godoy (20)\n19. - S - Jorge Gutierrez (26)\n20. - S - A
+ zarias Londono (24)\n21. - S - Luis Mejía (1)\n22. - S - Roderick Miller 
+ (25)\n23. - S - Alberto Quintero (19)\n24. - S - Tomas Rodriguez (9)\n25. 
+ - S - César Samudio (12)\n26. - S - César Yanis (21)\n
 LOCATION:BMO Field (Toronto)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uzbekistan 🇺🇿 1 - 3 🇨🇴 Colombia (Round 1 - Group K)
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:2eb6eaeb-b0fa-399e-5966-ef7ba85d52db
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021504\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1186,32 +1187,32 @@ BEGIN:VEVENT
 SUMMARY:Czech Republic 🇨🇿 - 🇿🇦 South Africa (Round 2 - Group A)
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:b3d281af-4a93-8fdc-f082-cfa52400d2cd
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021440\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/czech-republic-south-africa/8nrACRTs/\
- nAverage odds: 1.88/3.6/4.25\n\n\nTV\nPeacock (https://peacocktv.com)\nTel
- emundo App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fi
- fa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3
- Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Net
- work (https://telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-c
- up?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIF
- A%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nhttps://www.livesoccert
- v.com/competitions/international/world-cup/\n\n\nVIDEO\nhttps://media.lsme
- dialib.com/embed/49c95199-0c23-4669-8405-784d69551cae/224344b9-f484-46a8-a
- 522-35e111fc589e (Video preview)\n\n\nLINEUPS\nCzech Republic: 4-2-3-1 !un
- confirmed! \n1. - G - Matej Kovar (1)\n2. - D - Vladimír Coufal (5)\n3. -
-  D - David Zima (2)\n4. - D - Ladislav Krejčí (7)\n5. - D - Jaroslav Zel
- ený (20)\n6. - M - Tomáš Souček (22)\n7. - M - Michal Sadílek (18)\n8
- . - M - Lukáš Provod (17)\n9. - M - Pavel Šulc (15)\n10. - M - Adam Hlo
- žek (9)\n11. - F - Patrik Schick (10)\n\nSouth Africa: 4-4-2 !unconfirmed
- ! \n1. - G - Ronwen Williams (1)\n2. - D - Khuliso Mudau (20)\n3. - D - Im
- e Okon (21)\n4. - D - Mbekezeli Mbokazi (14)\n5. - D - Aubrey Modiba (6)\n
- 6. - M - Oswin Appollis (7)\n7. - M - Teboho Mokoena (4)\n8. - M - Thalent
- e Mbatha (5)\n9. - M - Tshepang Moremi (8)\n10. - F - Relebohile Mofokeng 
- (10)\n11. - F - Lyle Foster (9)\nMissing players:\nSphephelo Sithole (Red 
- Card)\nThemba Zwane (Red Card)\n
+ nAverage odds: 1.85/3.55/4.53\n\n\nReferee: Tori Penso\n\n\nTV\nPeacock (h
+ ttps://peacocktv.com)\nTelemundo App (https://telemundo.com)\nFOX One (htt
+ ps://www.fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnersh
+ ip%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3
+ _tp8_af128)\nTelemundo Network (https://telemundo.com)\nFOX (https://www.f
+ ox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc
+ %3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122
+ )\nhttps://www.livesoccertv.com/competitions/international/world-cup/\n\n\
+ nVIDEO\nhttps://media.lsmedialib.com/embed/49c95199-0c23-4669-8405-784d695
+ 51cae/224344b9-f484-46a8-a522-35e111fc589e (Video preview)\n\n\nLINEUPS\nC
+ zech Republic: 4-2-3-1 !unconfirmed! \n1. - G - Matej Kovar (1)\n2. - D - 
+ Vladimír Coufal (5)\n3. - D - David Zima (2)\n4. - D - Ladislav Krejčí 
+ (7)\n5. - D - Jaroslav Zelený (20)\n6. - M - Tomáš Souček (22)\n7. - M
+  - Michal Sadílek (18)\n8. - M - Lukáš Provod (17)\n9. - M - Pavel Šul
+ c (15)\n10. - M - Adam Hložek (9)\n11. - F - Patrik Schick (10)\n\nSouth 
+ Africa: 4-4-2 !unconfirmed! \n1. - G - Ronwen Williams (1)\n2. - D - Khuli
+ so Mudau (20)\n3. - D - Ime Okon (21)\n4. - D - Mbekezeli Mbokazi (14)\n5.
+  - D - Aubrey Modiba (6)\n6. - M - Oswin Appollis (7)\n7. - M - Teboho Mok
+ oena (4)\n8. - M - Thalente Mbatha (5)\n9. - M - Tshepang Moremi (8)\n10. 
+ - F - Relebohile Mofokeng (10)\n11. - F - Lyle Foster (9)\nMissing players
+ :\nSphephelo Sithole (Red Card)\nThemba Zwane (Red Card)\n
 LOCATION:Mercedes-Benz Stadium (Atlanta)
 END:VEVENT
 BEGIN:VEVENT
@@ -1219,125 +1220,125 @@ SUMMARY:Switzerland 🇨🇭 - 🇧🇦 Bosnia and Herzegovina (Round 2 - G
  roup B)
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:55e16546-d5fe-5b30-3ff4-4f082fcef6ae
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021446\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/bosnia-herzegovina-switzerland/djmY6Nc
- J/\nAverage odds: 1.57/4.09/6.15\n\n\nTV\nPeacock (https://peacocktv.com)\
- nTelemundo App (https://telemundo.com)\nFOX One (https://www.fox.com/socce
- r/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%
- 3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo
-  Network (https://telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-wor
- ld-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3
- DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nhttps://www.livesoc
- certv.com/competitions/international/world-cup/\n\n\nVIDEO\nhttps://media.
- lsmedialib.com/embed/c0270511-1d31-4c28-9490-7935192e217e/9ab42b5c-27cb-48
- e1-bb52-73355d744cad (Video preview)\n\n\nLINEUPS\nSwitzerland: 4-3-3 !unc
- onfirmed! \n1. - G - Gregor Kobel (1)\n2. - D - Denis Zakaria (6)\n3. - D 
- - Nico Elvedi (30)\n4. - D - Manuel Akanji (25)\n5. - D - Ricardo Rodrígu
- ez (12)\n6. - M - Michel Aebischer (20)\n7. - M - Granit Xhaka (34)\n8. - 
- M - Remo Freuler (8)\n9. - F - Dan Ndoye (14)\n10. - F - Breel Embolo (7)\
- n11. - F - Ruben Vargas (11)\n\nBosnia and Herzegovina: 4-4-2 !unconfirmed
- ! \n1. - G - Nikola Vasilj (1)\n2. - D - Amar Dedić (7)\n3. - D - Nikola 
- Katic (18)\n4. - D - Tarik Muharemović (4)\n5. - D - Sead Kolašinac (5)\
- n6. - M - Esmir Bajraktarevic (20)\n7. - M - Benjamin Tahirović (6)\n8. -
-  M - Ivan Basic (13)\n9. - M - Amar Memic (15)\n10. - F - Ermedin Demirovi
- ć (10)\n11. - F - Jovo Lukic (25)\nMissing players:\nHaris Tabaković (An
- kle Injury)\nNidal Čelik (Injury)\n
+ J/\nAverage odds: 1.56/4.13/6.18\n\n\nReferee: Joao Pedro Pinheiro\n\n\nTV
+ \nPeacock (https://peacocktv.com)\nTelemundo App (https://telemundo.com)\n
+ FOX One (https://www.fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag
+ %3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A
+ %3Acont%3Dm3_tp8_af128)\nTelemundo Network (https://telemundo.com)\nFOX (h
+ ttps://www.fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartner
+ ship%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3D
+ m3_tp8_af122)\nhttps://www.livesoccertv.com/competitions/international/wor
+ ld-cup/\n\n\nVIDEO\nhttps://media.lsmedialib.com/embed/c0270511-1d31-4c28-
+ 9490-7935192e217e/9ab42b5c-27cb-48e1-bb52-73355d744cad (Video preview)\n\n
+ \nLINEUPS\nSwitzerland: 4-3-3 !unconfirmed! \n1. - G - Gregor Kobel (1)\n2
+ . - D - Denis Zakaria (6)\n3. - D - Nico Elvedi (30)\n4. - D - Manuel Akan
+ ji (25)\n5. - D - Ricardo Rodríguez (12)\n6. - M - Michel Aebischer (20)\
+ n7. - M - Granit Xhaka (34)\n8. - M - Remo Freuler (8)\n9. - F - Dan Ndoye
+  (14)\n10. - F - Breel Embolo (7)\n11. - F - Ruben Vargas (11)\n\nBosnia a
+ nd Herzegovina: 4-4-2 !unconfirmed! \n1. - G - Nikola Vasilj (1)\n2. - D -
+  Amar Dedić (7)\n3. - D - Nikola Katic (18)\n4. - D - Tarik Muharemović 
+ (4)\n5. - D - Sead Kolašinac (5)\n6. - M - Esmir Bajraktarevic (20)\n7. -
+  M - Benjamin Tahirović (6)\n8. - M - Ivan Basic (13)\n9. - M - Amar Memi
+ c (15)\n10. - F - Ermedin Demirović (10)\n11. - F - Jovo Lukic (25)\nMiss
+ ing players:\nHaris Tabaković (Ankle Injury)\nNidal Čelik (Injury)\n
 LOCATION:SoFi Stadium (Inglewood)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canada 🇨🇦 - 🇶🇦 Qatar (Round 2 - Group B)
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:c1c0e32f-8663-326d-16d4-cf61c3d65223
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021450\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/canada-qatar/67vLrBMM/\nAverage odds: 
- 1.28/5.66/11.03\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (h
- ttps://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup?
- cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3
- A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:/
- /telemundo.com)\nFS1 (https://www.fox.com/soccer/fifa-world-cup?cmpid=org%
- 3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D
- 110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nhttps://www.livesoccertv.com/competi
- tions/international/world-cup/\n\n\nVIDEO\nhttps://media.lsmedialib.com/em
- bed/f107f8c7-1667-45dc-9af4-559f56d1a0df/f3e18e05-68ee-42ec-8ca0-4c54aff11
- 0ec (Video preview)\n\n\nLINEUPS\nCanada: 4-4-2 !unconfirmed! \n1. - G - M
- axime Crépeau (16)\n2. - D - Alistair Johnston (2)\n3. - D - Luc De Fouge
- rolles (4)\n4. - D - Derek Cornelius (13)\n5. - D - Richie Laryea (22)\n6.
-  - M - Ali Ahmed (20)\n7. - M - Ismael Koné (8)\n8. - M - Stephen Eustaqu
- io (7)\n9. - M - Liam Millar (11)\n10. - F - Jonathan David (10)\n11. - F 
- - Cyle Larin (9)\nMissing players:\nAlphonso Davies (Hamstring Injury)\nMa
- rcelo Flores (Knee Injury)\n\nQatar: 4-3-3 !unconfirmed! \n1. - G - Mahmou
- d Abunada (1)\n2. - D - Ayoub Al Oui (13)\n3. - D - Pedro Miguel (2)\n4. -
-  D - Boualem Khoukhi (16)\n5. - D - Homam Al Amin (14)\n6. - M - Jassem Ga
- ber (5)\n7. - M - Ahmed Fathi (20)\n8. - M - Issa Laye (4)\n9. - F - Edmil
- son Junior (8)\n10. - F - Yusuf Abdurisag (15)\n11. - F - Akram Afif (11)\
- n
+ 1.29/5.62/11.14\n\n\nReferee: Cristian Garay\n\n\nTV\nPeacock (https://pea
+ cocktv.com)\nTelemundo App (https://telemundo.com)\nFOX One (https://www.f
+ ox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc
+ %3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128
+ )\nTelemundo Network (https://telemundo.com)\nFS1 (https://www.fox.com/soc
+ cer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferra
+ l%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nhttps:/
+ /www.livesoccertv.com/competitions/international/world-cup/\n\n\nVIDEO\nht
+ tps://media.lsmedialib.com/embed/f107f8c7-1667-45dc-9af4-559f56d1a0df/f3e1
+ 8e05-68ee-42ec-8ca0-4c54aff110ec (Video preview)\n\n\nLINEUPS\nCanada: 4-4
+ -2 !unconfirmed! \n1. - G - Maxime Crépeau (16)\n2. - D - Alistair Johnst
+ on (2)\n3. - D - Luc De Fougerolles (4)\n4. - D - Derek Cornelius (13)\n5.
+  - D - Richie Laryea (22)\n6. - M - Ali Ahmed (20)\n7. - M - Ismael Koné 
+ (8)\n8. - M - Stephen Eustaquio (7)\n9. - M - Liam Millar (11)\n10. - F - 
+ Jonathan David (10)\n11. - F - Cyle Larin (9)\nMissing players:\nAlphonso 
+ Davies (Hamstring Injury)\nMarcelo Flores (Knee Injury)\n\nQatar: 4-3-3 !u
+ nconfirmed! \n1. - G - Mahmoud Abunada (1)\n2. - D - Ayoub Al Oui (13)\n3.
+  - D - Pedro Miguel (2)\n4. - D - Boualem Khoukhi (16)\n5. - D - Homam Al 
+ Amin (14)\n6. - M - Jassem Gaber (5)\n7. - M - Ahmed Fathi (20)\n8. - M - 
+ Issa Laye (4)\n9. - F - Edmilson Junior (8)\n10. - F - Yusuf Abdurisag (15
+ )\n11. - F - Akram Afif (11)\n
 LOCATION:BC Place Stadium (Vancouver)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mexico 🇲🇽 - 🇰🇷 South Korea (Round 2 - Group A)
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:be0601be-aa20-2510-ae43-78c69cf49b58
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021442\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/mexico-south-korea/On5HOkVj/\nAverage 
- odds: 2.03/3.3/4\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
- https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup
- ?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%
- 3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:
- //telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup?cmpid=org
- %3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3
- D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nUniverso (https://telemundo.com)\nh
- ttps://www.livesoccertv.com/competitions/international/world-cup/\n\n\nLIN
- EUPS\nMexico: 4-1-4-1 !unconfirmed! \n1. - G - José Rangel (1)\n2. - D - 
- Israel Reyes (15)\n3. - D - Edson Álvarez (4)\n4. - D - Johan Vásquez (5
- )\n5. - D - Jesus Gallardo (23)\n6. - M - Erik Lira (6)\n7. - M - Roberto 
- Alvarado (25)\n8. - M - Brian Gutierrez (26)\n9. - M - Álvaro Fidalgo (8)
- \n10. - M - Julián Quiñones (16)\n11. - F - Raúl Jiménez (9)\nMissing 
- players:\nCésar Montes (Red Card)\n\nSouth Korea: 3-4-2-1 !unconfirmed! \
- n1. - G - Seung-Gyu Kim (1)\n2. - D - Han-Beom Lee (2)\n3. - D - Min-jae K
- im (4)\n4. - D - Gi-Hyuk Lee (3)\n5. - M - Young-woo Seol (22)\n6. - M - I
- n-Beom Hwang (6)\n7. - M - Seung-Ho Paik (8)\n8. - M - Tae-Seok Lee (13)\n
- 9. - M - Kang-in Lee (19)\n10. - M - Jae-Sung Lee (10)\n11. - F - Heung-mi
- n Son (7)\nMissing players:\nTae-Hyeon Kim (Ankle Injury)\nYu-Min Cho (Foo
- t Injury)\n
+ odds: 2.09/3.27/3.85\n\n\nReferee: Gustavo Tejera\n\n\nTV\nPeacock (https:
+ //peacocktv.com)\nTelemundo App (https://telemundo.com)\nFOX One (https://
+ www.fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A
+ %3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_
+ af128)\nTelemundo Network (https://telemundo.com)\nFOX (https://www.fox.co
+ m/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dre
+ ferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nUn
+ iverso (https://telemundo.com)\nhttps://www.livesoccertv.com/competitions/
+ international/world-cup/\n\n\nLINEUPS\nMexico: 4-1-4-1 !unconfirmed! \n1. 
+ - G - José Rangel (1)\n2. - D - Israel Reyes (15)\n3. - D - Edson Álvare
+ z (4)\n4. - D - Johan Vásquez (5)\n5. - D - Jesus Gallardo (23)\n6. - M -
+  Erik Lira (6)\n7. - M - Roberto Alvarado (25)\n8. - M - Brian Gutierrez (
+ 26)\n9. - M - Álvaro Fidalgo (8)\n10. - M - Julián Quiñones (16)\n11. -
+  F - Raúl Jiménez (9)\nMissing players:\nCésar Montes (Red Card)\n\nSou
+ th Korea: 3-4-2-1 !unconfirmed! \n1. - G - Seung-Gyu Kim (1)\n2. - D - Han
+ -Beom Lee (2)\n3. - D - Min-jae Kim (4)\n4. - D - Gi-Hyuk Lee (3)\n5. - M 
+ - Young-woo Seol (22)\n6. - M - In-Beom Hwang (6)\n7. - M - Seung-Ho Paik 
+ (8)\n8. - M - Tae-Seok Lee (13)\n9. - M - Kang-in Lee (19)\n10. - M - Jae-
+ Sung Lee (10)\n11. - F - Heung-min Son (7)\nMissing players:\nTae-Hyeon Ki
+ m (Ankle Injury)\nYu-Min Cho (Foot Injury)\n
 LOCATION:Estadio Akron (Zapopan)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USA 🇺🇸 - 🇦🇺 Australia (Round 2 - Group D)
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:b31a6959-5623-6e9c-ddd8-22375619796f
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021462\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/australia-usa/S0aAVubs/\nAverage odds:
-  1.6/4.28/5.31\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (ht
- tps://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup?c
- mpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A
- %3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https://
- telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup?cmpid=org%3
- Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D1
- 10_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nUniverso (https://telemundo.com)\nhtt
- ps://www.livesoccertv.com/competitions/international/world-cup/\n\n\nLINEU
- PS\nUSA: 3-4-3 !unconfirmed! \n1. - G - Matthew Freese (24)\n2. - D - Chri
- s Richards (3)\n3. - D - Alexander Freeman (16)\n4. - D - Tim Ream (13)\n5
- . - M - Sergiño Dest (2)\n6. - M - Tyler Adams (4)\n7. - M - Weston McKen
- nie (8)\n8. - M - Antonee Robinson (5)\n9. - F - Malik Tillman (17)\n10. -
-  F - Folarin Balogun (20)\n11. - F - Giovanni Reyna (7)\nMissing players:\
- nChristian Pulišić (Calf Injury)\n\nAustralia: 3-4-3 !unconfirmed! \n1. 
- - G - Patrick Beach (18)\n2. - D - Alessandro Circati (3)\n3. - D - Harry 
- Souttar (19)\n4. - D - Cameron Burgess (21)\n5. - M - Jacob Italiano (4)\n
- 6. - M - Jackson Irvine (22)\n7. - M - Aiden O'Neill (13)\n8. - M - Jordan
-  Bos (5)\n9. - F - Nestory Irankunda (17)\n10. - F - Connor Metcalfe (8)\n
- 11. - F - Mohamed Toure (9)\n
+  1.6/4.3/5.27\n\n\nReferee: Felix Zwayer\n\n\nTV\nPeacock (https://peacock
+ tv.com)\nTelemundo App (https://telemundo.com)\nFOX One (https://www.fox.c
+ om/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dr
+ eferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nT
+ elemundo Network (https://telemundo.com)\nFOX (https://www.fox.com/soccer/
+ fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A
+ %3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nUniverso (h
+ ttps://telemundo.com)\nhttps://www.livesoccertv.com/competitions/internati
+ onal/world-cup/\n\n\nLINEUPS\nUSA: 3-4-3 !unconfirmed! \n1. - G - Matthew 
+ Freese (24)\n2. - D - Chris Richards (3)\n3. - D - Alexander Freeman (16)\
+ n4. - D - Tim Ream (13)\n5. - M - Sergiño Dest (2)\n6. - M - Tyler Adams 
+ (4)\n7. - M - Weston McKennie (8)\n8. - M - Antonee Robinson (5)\n9. - F -
+  Malik Tillman (17)\n10. - F - Folarin Balogun (20)\n11. - F - Giovanni Re
+ yna (7)\nMissing players:\nChristian Pulišić (Calf Injury)\n\nAustralia:
+  3-4-3 !unconfirmed! \n1. - G - Patrick Beach (18)\n2. - D - Alessandro Ci
+ rcati (3)\n3. - D - Harry Souttar (19)\n4. - D - Cameron Burgess (21)\n5. 
+ - M - Jacob Italiano (4)\n6. - M - Jackson Irvine (22)\n7. - M - Aiden O'N
+ eill (13)\n8. - M - Jordan Bos (5)\n9. - F - Nestory Irankunda (17)\n10. -
+  F - Connor Metcalfe (8)\n11. - F - Mohamed Toure (9)\n
 LOCATION:Lumen Field (Seattle)
 END:VEVENT
 BEGIN:VEVENT
@@ -1345,12 +1346,12 @@ SUMMARY:Scotland 󠁳󠁣🏴󠁧󠁢󠁳󠁣󠁴󠁿 - 🇲🇦 Morocco (R
  ound 2 - Group C)
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:cacba953-21a8-d989-1588-9826a321770f
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021454\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/morocco-scotland/nRafcAyG/\nAverage od
- ds: 5.06/3.59/1.75\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App
+ ds: 5.15/3.59/1.74\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App
   (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-c
  up?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIF
  A%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (http
@@ -1375,156 +1376,203 @@ BEGIN:VEVENT
 SUMMARY:Brazil 🇧🇷 - 🇭🇹 Haiti (Round 2 - Group C)
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:798679f6-1a39-9faa-97a7-204564c949c5
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021457\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/brazil-haiti/IRyRv2Ll/\nAverage odds: 
- 1.1/10.59/22.51\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (h
- ttps://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup?
- cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3
- A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:/
- /telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup?cmpid=org%
- 3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D
- 110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nhttps://www.livesoccertv.com/competi
- tions/international/world-cup/\n\n\nLINEUPS\nBrazil: 4-2-3-1 !unconfirmed!
-  \n1. - G - Alisson (1)\n2. - D - Danilo (13)\n3. - D - Marquinhos (4)\n4.
-  - D - Gabriel Magalhães (3)\n5. - D - Douglas Santos (16)\n6. - M - Brun
- o Guimarães (8)\n7. - M - Fabinho (17)\n8. - M - Luiz Henrique (21)\n9. -
-  M - Raphinha (11)\n10. - M - Vinícius Júnior (7)\n11. - F - Matheus Cun
- ha (9)\nMissing players:\nNeymar (Calf Injury)\nWesley (Muscle Injury)\n\n
- Haiti: 4-4-2 !unconfirmed! \n1. - G - Johny Placide (1)\n2. - D - Carlens 
- Arcus (2)\n3. - D - Hannes Delcroix (4)\n4. - D - Ricardo Ade (5)\n5. - D 
- - Martin Experience (8)\n6. - M - Louicius Don Deedson (11)\n7. - M - Danl
- ey Jean Jacques (17)\n8. - M - Jean-Ricner Bellegarde (10)\n9. - M - Ruben
-  Providence (15)\n10. - F - Frantzdy Pierrot (20)\n11. - F - Wilson Isidor
-  (18)\nMissing players:\nLeverton Pierre (Achilles Tendon Injury)\n
+ 1.1/10.65/22.48\n\n\nReferee: Alejandro Hernandez\n\n\nTV\nPeacock (https:
+ //peacocktv.com)\nTelemundo App (https://telemundo.com)\nFOX One (https://
+ www.fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A
+ %3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_
+ af128)\nTelemundo Network (https://telemundo.com)\nFOX (https://www.fox.co
+ m/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dre
+ ferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nht
+ tps://www.livesoccertv.com/competitions/international/world-cup/\n\n\nLINE
+ UPS\nBrazil: 4-2-3-1 !unconfirmed! \n1. - G - Alisson (1)\n2. - D - Danilo
+  (13)\n3. - D - Marquinhos (4)\n4. - D - Gabriel Magalhães (3)\n5. - D - 
+ Douglas Santos (16)\n6. - M - Bruno Guimarães (8)\n7. - M - Fabinho (17)\
+ n8. - M - Luiz Henrique (21)\n9. - M - Raphinha (11)\n10. - M - Vinícius 
+ Júnior (7)\n11. - F - Matheus Cunha (9)\nMissing players:\nNeymar (Calf I
+ njury)\nWesley (Muscle Injury)\n\nHaiti: 4-4-2 !unconfirmed! \n1. - G - Jo
+ hny Placide (1)\n2. - D - Carlens Arcus (2)\n3. - D - Hannes Delcroix (4)\
+ n4. - D - Ricardo Ade (5)\n5. - D - Martin Experience (8)\n6. - M - Louici
+ us Don Deedson (11)\n7. - M - Danley Jean Jacques (17)\n8. - M - Jean-Ricn
+ er Bellegarde (10)\n9. - M - Ruben Providence (15)\n10. - F - Frantzdy Pie
+ rrot (20)\n11. - F - Wilson Isidor (18)\nMissing players:\nLeverton Pierre
+  (Achilles Tendon Injury)\n
 LOCATION:Lincoln Financial Field (Philadelphia)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Turkey 🇹🇷 - 🇵🇾 Paraguay (Round 2 - Group D)
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:87fbefe2-eae9-c467-8dce-684b3d95d90f
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021460\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/paraguay-turkey/KnyuOLXH/\nAverage odd
- s: 2.03/3.34/3.91\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App 
- (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cu
- p?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA
- %3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https
- ://telemundo.com)\nFS1 (https://www.fox.com/soccer/fifa-world-cup?cmpid=or
- g%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%
- 3D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nhttps://www.livesoccertv.com/compe
- titions/international/world-cup/
+ s: 2.03/3.34/3.9\n\n\nReferee: Ivan Arcides Barton Cisneros\n\n\nTV\nPeaco
+ ck (https://peacocktv.com)\nTelemundo App (https://telemundo.com)\nFOX One
+  (https://www.fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpart
+ nership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont
+ %3Dm3_tp8_af128)\nTelemundo Network (https://telemundo.com)\nFS1 (https://
+ www.fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A
+ %3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_
+ af123)\nhttps://www.livesoccertv.com/competitions/international/world-cup/
+ \n\n\nLINEUPS\nTurkey: 4-2-3-1 !unconfirmed! \n1. - G - Uğurcan Çakır (
+ 23)\n2. - D - Mert Müldür (18)\n3. - D - Merih Demiral (3)\n4. - D - Abd
+ ülkerim Bardakcı (14)\n5. - D - Ferdi Kadıoğlu (24)\n6. - M - İsmail 
+ Yüksek (16)\n7. - M - Hakan Çalhanoğlu (10)\n8. - M - Arda Güler (8)\n
+ 9. - M - Orkun Kökçü (6)\n10. - M - Kenan Yildiz (11)\n11. - F - Barı
+ ş Alper Yılmaz (21)\n\nParaguay: 4-4-2 !unconfirmed! \n1. - G - Orlando 
+ Gill (12)\n2. - D - Juan Caceres (4)\n3. - D - Gustavo Gómez (15)\n4. - D
+  - Omar Alderete (3)\n5. - D - Junior Alonso (6)\n6. - M - Diego Gómez (8
+ )\n7. - M - Andrés Cubas (14)\n8. - M - Matías Galarza (23)\n9. - M - Mi
+ guel Almirón (10)\n10. - F - Isidro Pitta (25)\n11. - F - Julio Enciso (1
+ 9)\nMissing players:\nRamón Sosa (Ankle Injury)\nGustavo Caballero (Muscl
+ e Injury)\n
 LOCATION:Levi's Stadium (Santa Clara)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Netherlands 🇳🇱 - 🇸🇪 Sweden (Round 2 - Group F)
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:4a9c8e8f-ea38-40d2-8e40-cf4f64fe65f1
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021472\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/netherlands-sweden/0rAjVxuo/\nAverage 
- odds: 1.73/3.81/4.86\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo A
- pp (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world
- -cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DF
- IFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (ht
- tps://telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup?cmpid
- =org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Ac
- mp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nhttps://www.livesoccertv.com/co
- mpetitions/international/world-cup/
+ odds: 1.73/3.81/4.83\n\n\nReferee: Michael Oliver\n\n\nTV\nPeacock (https:
+ //peacocktv.com)\nTelemundo App (https://telemundo.com)\nFOX One (https://
+ www.fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A
+ %3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_
+ af128)\nTelemundo Network (https://telemundo.com)\nFOX (https://www.fox.co
+ m/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dre
+ ferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nht
+ tps://www.livesoccertv.com/competitions/international/world-cup/\n\n\nLINE
+ UPS\nNetherlands: 4-3-3 !unconfirmed! \n1. - G - Bart Verbruggen (1)\n2. -
+  D - Denzel Dumfries (22)\n3. - D - Jan Paul van Hecke (6)\n4. - D - Virgi
+ l van Dijk (4)\n5. - D - Micky van de Ven (15)\n6. - M - Ryan Gravenberch 
+ (8)\n7. - M - Frenkie de Jong (21)\n8. - M - Tijjani Reijnders (14)\n9. - 
+ F - Crysencio Summerville (24)\n10. - F - Donyell Malen (18)\n11. - F - Co
+ dy Gakpo (11)\nMissing players:\nJurriën Timber (Groin Injury)\n\nSweden:
+  3-1-4-2 !unconfirmed! \n1. - G - Kristoffer Nordfeldt (23)\n2. - D - Gust
+ af Lagerbielke (2)\n3. - D - Isak Hien (4)\n4. - D - Victor Lindelöf (3)\
+ n5. - M - Jesper Karlström (16)\n6. - M - Alexander Bernhardsson (21)\n7.
+  - M - Benjamin Nygren (10)\n8. - M - Yasin Ayari (18)\n9. - M - Gabriel G
+ udmundsson (5)\n10. - F - Viktor Gyökeres (17)\n11. - F - Alexander Isak 
+ (9)\n
 LOCATION:NRG Stadium (Houston)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Germany 🇩🇪 - 🇨🇮 Côte d'Ivoire (Round 2 - Group E)
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:5e5984a1-0234-84d1-3c0c-233a76f349ec
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021469\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/germany-ivory-coast/SMzorJsm/\nAverage
-  odds: 1.55/4.42/5.59\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo 
- App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-worl
- d-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3D
- FIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (h
- ttps://telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup?cmpi
- d=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3A
- cmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nhttps://www.livesoccertv.com/c
- ompetitions/international/world-cup/
+  odds: 1.54/4.46/5.65\n\n\nReferee: Juan Gabriel Benitez\n\n\nTV\nFOX (htt
+ ps://www.fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnersh
+ ip%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3
+ _tp8_af122)\nPeacock (https://peacocktv.com)\nTelemundo App (https://telem
+ undo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup?cmpid=org%3D
+ one%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D11
+ 0_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https://telemundo.c
+ om)\nhttps://www.livesoccertv.com/competitions/international/world-cup/\n\
+ n\nLINEUPS\nGermany: 4-2-3-1 !unconfirmed! \n1. - G - Manuel Neuer (1)\n2.
+  - D - Joshua Kimmich (6)\n3. - D - Jonathan Tah (4)\n4. - D - Nico Schlot
+ terbeck (15)\n5. - D - Nathaniel Brown (18)\n6. - M - Felix Nmecha (23)\n7
+ . - M - Aleksandar Pavlovic (5)\n8. - M - Leroy Sané (19)\n9. - M - Jamal
+  Musiala (10)\n10. - M - Florian Wirtz (17)\n11. - F - Kai Havertz (7)\nMi
+ ssing players:\nLennart Karl (Thigh Injury)\n\nCôte d'Ivoire: 4-4-2 !unco
+ nfirmed! \n1. - G - Yahia Fofana (1)\n2. - D - Guéla Doué (17)\n3. - D -
+  Wilfried Singo (5)\n4. - D - Emmanuel Agbadou (20)\n5. - D - Ghislain Kon
+ an (3)\n6. - M - Amad Diallo (15)\n7. - M - Franck Kessié (8)\n8. - M - S
+ eko Fofana (6)\n9. - M - Yan Diomande (11)\n10. - F - Nicolas Pépé (19)\
+ n11. - F - Ange-Yoan Bonny (9)\nMissing players:\nEvan Ndicka (Thigh Injur
+ y)\n
 LOCATION:BMO Field (Toronto)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ecuador 🇪🇨 - 🇨🇼 Curaçao (Round 2 - Group E)
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:cec7c408-3284-11d6-eaa4-a7f6e77fc0ac
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021465\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/curacao-ecuador/p2XLmuKP/\nAverage odd
- s: 1.09/10.5/26.48\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App
-  (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-c
- up?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIF
- A%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (http
- s://telemundo.com)\nFS1 (https://www.fox.com/soccer/fifa-world-cup?cmpid=o
- rg%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp
- %3D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nUniverso (https://telemundo.com)\
- nhttps://www.livesoccertv.com/competitions/international/world-cup/
+ s: 1.1/9.99/26.49\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App 
+ (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cu
+ p?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA
+ %3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https
+ ://telemundo.com)\nFS1 (https://www.fox.com/soccer/fifa-world-cup?cmpid=or
+ g%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%
+ 3D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nUniverso (https://telemundo.com)\n
+ https://www.livesoccertv.com/competitions/international/world-cup/\n\n\nLI
+ NEUPS\nEcuador: 4-2-3-1 !unconfirmed! \n1. - G - Hernán Galíndez (1)\n2.
+  - D - Ángelo Preciado (17)\n3. - D - Willian Pacho (6)\n4. - D - Joel Or
+ dóñez (4)\n5. - D - Piero Hincapié (3)\n6. - M - Alan Franco (21)\n7. -
+  M - Moisés Caicedo (23)\n8. - M - Gonzalo Plata (19)\n9. - M - Pedro Vit
+ e (15)\n10. - M - John Yeboah (9)\n11. - F - Enner Valencia (13)\n\nCuraç
+ ao: 4-3-1-2 !unconfirmed! \n1. - G - Eloy Room (1)\n2. - D - Sherel Floran
+ us (5)\n3. - D - Riechedly Bazoer (23)\n4. - D - Armando Obispo (18)\n5. -
+  D - Deveron Fonville (24)\n6. - M - Livano Comenencia (8)\n7. - M - Leand
+ ro Bacuna (10)\n8. - M - Juninho Bacuna (7)\n9. - M - Tahith Chong (21)\n1
+ 0. - F - Jürgen Locadia (9)\n11. - F - Sontje Hansen (12)\n
 LOCATION:Arrowhead Stadium (Kansas City)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tunisia 🇹🇳 - 🇯🇵 Japan (Round 2 - Group F)
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:9d0e479b-ff8c-e1ed-e0cb-f803db07d393
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021475\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/japan-tunisia/SzGJdIdt/\nAverage odds:
-  6.71/4.04/1.53\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (h
- ttps://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup?
- cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3
- A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:/
- /telemundo.com)\nFS1 (https://www.fox.com/soccer/fifa-world-cup?cmpid=org%
- 3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D
- 110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nhttps://www.livesoccertv.com/competi
- tions/international/world-cup/
+  6.62/4.06/1.53\n\n\nReferee: Istvan Kovacs\n\n\nTV\nPeacock (https://peac
+ ocktv.com)\nTelemundo App (https://telemundo.com)\nFOX One (https://www.fo
+ x.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%
+ 3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)
+ \nTelemundo Network (https://telemundo.com)\nFS1 (https://www.fox.com/socc
+ er/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral
+ %3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nhttps://
+ www.livesoccertv.com/competitions/international/world-cup/
 LOCATION:Estadio BBVA (Monterrey)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spain 🇪🇸 - 🇸🇦 Saudi Arabia (Round 2 - Group H)
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:074eaf80-cd70-09d4-e2da-a2f928dff987
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021483\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/saudi-arabia-spain/CASh7QGF/\nAverage 
- odds: 1.1/9.83/26.62\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo A
- pp (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world
- -cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DF
- IFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (ht
- tps://telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup?cmpid
- =org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Ac
- mp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nUniverso (https://telemundo.com
- )\nhttps://www.livesoccertv.com/competitions/international/world-cup/
+ odds: 1.1/9.79/26.4\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo Ap
+ p (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-
+ cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFI
+ FA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (htt
+ ps://telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup?cmpid=
+ org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acm
+ p%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nUniverso (https://telemundo.com)
+ \nhttps://www.livesoccertv.com/competitions/international/world-cup/
 LOCATION:Mercedes-Benz Stadium (Atlanta)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belgium 🇧🇪 - 🇮🇷 Iran (Round 2 - Group G)
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:28e08d69-b780-34e4-2902-bc54d7ecb155
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021477\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/belgium-iran/fBZ09etn/\nAverage odds: 
- 1.43/4.56/7.65\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (ht
+ 1.43/4.53/7.58\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (ht
  tps://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup?c
  mpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A
  %3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https://
@@ -1538,12 +1586,31 @@ BEGIN:VEVENT
 SUMMARY:Uruguay 🇺🇾 - 🇨🇻 Cape Verde (Round 2 - Group H)
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:6dca3947-db01-4af4-6a26-382171c86363
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021487\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/cape-verde-uruguay/4pPp9nn3/\nAverage 
- odds: 1.48/4.08/7.6\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo Ap
+ odds: 1.48/4.11/7.55\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo A
+ pp (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world
+ -cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DF
+ IFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (ht
+ tps://telemundo.com)\nFS1 (https://www.fox.com/soccer/fifa-world-cup?cmpid
+ =org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Ac
+ mp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nhttps://www.livesoccertv.com/co
+ mpetitions/international/world-cup/
+LOCATION:Hard Rock Stadium (Miami Gardens)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Zealand 🇳🇿 - 🇪🇬 Egypt (Round 2 - Group G)
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+DTSTAMP:20260618T113117Z
+UID:36f0275c-6f27-cccc-8b37-66afe525ef5f
+DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
+ 023/289273/400021480\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
+ tball/world/world-championship-2026/egypt-new-zealand/QeaikheU/\nAverage o
+ dds: 5.52/4.04/1.61\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo Ap
  p (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-
  cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFI
  FA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (htt
@@ -1551,56 +1618,37 @@ DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acm
  p%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nhttps://www.livesoccertv.com/com
  petitions/international/world-cup/
-LOCATION:Hard Rock Stadium (Miami Gardens)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Zealand 🇳🇿 - 🇪🇬 Egypt (Round 2 - Group G)
-DTSTART:20260622T010000Z
-DTEND:20260622T030000Z
-DTSTAMP:20260618T072511Z
-UID:36f0275c-6f27-cccc-8b37-66afe525ef5f
-DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
- 023/289273/400021480\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
- tball/world/world-championship-2026/egypt-new-zealand/QeaikheU/\nAverage o
- dds: 5.55/4/1.61\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
- https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup
- ?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%
- 3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:
- //telemundo.com)\nFS1 (https://www.fox.com/soccer/fifa-world-cup?cmpid=org
- %3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3
- D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\nhttps://www.livesoccertv.com/compet
- itions/international/world-cup/
 LOCATION:BC Place Stadium (Vancouver)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Argentina 🇦🇷 - 🇦🇹 Austria (Round 2 - Group J)
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:e9f33b56-65cc-a97e-7d72-1baa0b1906db
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021494\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/argentina-austria/Cpq2Y2FE/\nAverage o
- dds: 1.59/3.92/6.04\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo Ap
- p (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-
- cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFI
- FA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (htt
- ps://telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup?cmpid=
- org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acm
- p%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nUniverso (https://telemundo.com)
- \nhttps://www.livesoccertv.com/competitions/international/world-cup/
+ dds: 1.6/3.89/5.98\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App
+  (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-c
+ up?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIF
+ A%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (http
+ s://telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup?cmpid=o
+ rg%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp
+ %3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nUniverso (https://telemundo.com)\
+ nhttps://www.livesoccertv.com/competitions/international/world-cup/
 LOCATION:AT&T Stadium (Arlington)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:France 🇫🇷 - 🇮🇶 Iraq (Round 2 - Group I)
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:38a35864-91e9-2604-4ea2-617faf68df8a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021492\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/france-iraq/KMRMTaNM/\nAverage odds: 1
- .08/10.63/31.81\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (h
+ .09/10.59/31.45\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (h
  ttps://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup?
  cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3
  A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:/
@@ -1614,12 +1662,12 @@ BEGIN:VEVENT
 SUMMARY:Norway 🇳🇴 - 🇸🇳 Senegal (Match 2 - Group I)
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:29dbc011-5b56-dd54-76f3-bdaa43ab1626
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021491\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/norway-senegal/xSUJLPV8/\nAverage odds
- : 2.34/3.44/3.02\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
+ : 2.34/3.45/3.03\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
  https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup
  ?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%
  3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:
@@ -1633,12 +1681,12 @@ BEGIN:VEVENT
 SUMMARY:Jordan 🇯🇴 - 🇩🇿 Algeria (Match 2 - Group J)
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:1c3c0a32-2ac9-1b07-a095-c660cb410995
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021499\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/algeria-jordan/dx1FAaN7/\nAverage odds
- : 5.84/4.01/1.59\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
+ : 5.86/4.04/1.58\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
  https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup
  ?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%
  3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:
@@ -1652,12 +1700,12 @@ BEGIN:VEVENT
 SUMMARY:Portugal 🇵🇹 - 🇺🇿 Uzbekistan (Match 2 - Group K)
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:98abc6b7-f296-f396-7e1c-40a76ce2780f
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021503\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/portugal-uzbekistan/nRFcNx7D/\nAverage
-  odds: 1.2/6.71/14.58\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo 
+  odds: 1.2/6.69/15.09\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo 
  App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-worl
  d-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3D
  FIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (h
@@ -1672,12 +1720,12 @@ SUMMARY:England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 - 🇬🇭 Ghana (Match 2 - Gr
  oup L)
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:1f191814-0c07-68af-a390-d00dcb007335
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021506\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/england-ghana/KhgvzGjJ/\nAverage odds:
-  1.24/5.98/12.73\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
+  1.23/6.12/13.57\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
  https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup
  ?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%
  3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:
@@ -1691,12 +1739,12 @@ BEGIN:VEVENT
 SUMMARY:Panama 🇵🇦 - 🇭🇷 Croatia (Match 2 - Group L)
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:64d2261d-e025-b122-fa80-ae27cc16b1a1
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021511\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/croatia-panama/CSkWyxM6/\nAverage odds
- : 6.75/3.98/1.53\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
+ : 6.68/3.93/1.55\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
  https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup
  ?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%
  3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:
@@ -1711,12 +1759,12 @@ SUMMARY:Colombia 🇨🇴 - 🇨🇩 Democratic Republic of the Congo (Matc
  h 2 - Group K)
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:9fe3e79c-b3ef-de29-fa3b-b1a61bb95e4d
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021501\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/colombia-d-r-congo/K0YnEaMq/\nAverage 
- odds: 1.47/4.22/7.4\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo Ap
+ odds: 1.49/4.16/7.2\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo Ap
  p (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-
  cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFI
  FA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (htt
@@ -1730,7 +1778,7 @@ BEGIN:VEVENT
 SUMMARY:Switzerland 🇨🇭 - 🇨🇦 Canada (Match 3 - Group B)
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:84f96e11-c685-9241-786e-16f8ad4d7756
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021451\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1750,19 +1798,19 @@ SUMMARY:Bosnia and Herzegovina 🇧🇦 - 🇶🇦 Qatar (Match 3 - Group B
  )
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:3202e0de-89cd-66df-7a81-1b29f6846331
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021448\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/bosnia-herzegovina-qatar/jRyHEZGP/\nAv
- erage odds: 1.58/3.92/5.96\n\n\nTV\nPeacock (https://peacocktv.com)\nTelem
- undo App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa
- -world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3As
- rc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https
- ://telemundo.com)\nTelexitos (https://www.telexitos.com/)\nFS1 (https://ww
- w.fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3
- Amc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af
- 123)\nhttps://www.livesoccertv.com/competitions/international/world-cup/
+ erage odds: 1.59/3.9/5.92\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemu
+ ndo App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-
+ world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asr
+ c%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https:
+ //telemundo.com)\nTelexitos (https://www.telexitos.com/)\nFS1 (https://www
+ .fox.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3A
+ mc%3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af1
+ 23)\nhttps://www.livesoccertv.com/competitions/international/world-cup/
 LOCATION:Lumen Field (Seattle)
 END:VEVENT
 BEGIN:VEVENT
@@ -1770,12 +1818,12 @@ SUMMARY:Scotland 󠁳󠁣🏴󠁧󠁢󠁳󠁣󠁴󠁿 - 🇧🇷 Brazil (Ma
  tch 3 - Group C)
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:87f003b8-f89f-8c85-e73e-488e02b400c2
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021455\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/brazil-scotland/EgVZxtj1/\nAverage odd
- s: 6.92/4.74/1.44\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App 
+ s: 6.92/4.76/1.43\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App 
  (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cu
  p?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA
  %3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https
@@ -1789,12 +1837,12 @@ BEGIN:VEVENT
 SUMMARY:Morocco 🇲🇦 - 🇭🇹 Haiti (Match 3 - Group C)
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:4cfc8c93-e3e7-84fd-b972-8be37bf055fd
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021452\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/haiti-morocco/n7TsyKKD/\nAverage odds:
-  1.29/5.44/10.79\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
+  1.29/5.43/10.87\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
  https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup
  ?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%
  3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https://telemun
@@ -1808,12 +1856,12 @@ BEGIN:VEVENT
 SUMMARY:South Africa 🇿🇦 - 🇰🇷 South Korea (Match 3 - Group A)
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:181723c8-4315-86ee-cb1b-dfe0b0b1f5a2
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021445\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/south-africa-south-korea/4rr4ngNc/\nAv
- erage odds: 5.63/3.96/1.61\n\n\nTV\nPeacock (https://peacocktv.com)\nTelem
+ erage odds: 5.84/4.02/1.59\n\n\nTV\nPeacock (https://peacocktv.com)\nTelem
  undo App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa
  -world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3As
  rc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https
@@ -1827,12 +1875,12 @@ BEGIN:VEVENT
 SUMMARY:Czech Republic 🇨🇿 - 🇲🇽 Mexico (Match 3 - Group A)
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:74fa13ab-9629-0181-36e1-1032ea92caaf
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021444\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/czech-republic-mexico/GCoIA5bf/\nAvera
- ge odds: 4.53/3.54/1.83\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemund
+ ge odds: 4.54/3.54/1.83\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemund
  o App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-wo
  rld-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%
  3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network 
@@ -1846,12 +1894,12 @@ BEGIN:VEVENT
 SUMMARY:Ecuador 🇪🇨 - 🇩🇪 Germany (Match 3 - Group E)
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:1c047a94-b5fc-79db-8313-dfc8f54fbe66
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021466\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/ecuador-germany/zmvgtcCa/\nAverage odd
- s: 4.79/3.72/1.71\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App 
+ s: 4.86/3.71/1.71\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App 
  (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cu
  p?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA
  %3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https
@@ -1865,31 +1913,31 @@ BEGIN:VEVENT
 SUMMARY:Curaçao 🇨🇼 - 🇨🇮 Côte d'Ivoire (Match 3 - Group E)
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:a0e3cd24-14d4-b320-9048-52dc7e69f150
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021468\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/curacao-ivory-coast/d2S1vysC/\nAverage
-  odds: 19.73/8.18/1.13\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo
-  App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-wor
- ld-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3
- DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https://t
- elemundo.com)\nTelexitos (https://www.telexitos.com/)\nFS1 (https://www.fo
- x.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%
- 3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)
- \nhttps://www.livesoccertv.com/competitions/international/world-cup/
+  odds: 19.7/8.24/1.13\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo 
+ App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-worl
+ d-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3D
+ FIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https://te
+ lemundo.com)\nTelexitos (https://www.telexitos.com/)\nFS1 (https://www.fox
+ .com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3
+ Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af123)\
+ nhttps://www.livesoccertv.com/competitions/international/world-cup/
 LOCATION:Lincoln Financial Field (Philadelphia)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tunisia 🇹🇳 - 🇳🇱 Netherlands (Match 3 - Group F)
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:cc82fa9f-2e0c-f1ad-972c-e7164908b15d
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021473\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/netherlands-tunisia/0lERfdRh/\nAverage
-  odds: 9.26/5.16/1.32\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo 
+  odds: 9.26/5.15/1.32\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo 
  App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-worl
  d-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3D
  FIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelexitos (https://w
@@ -1904,7 +1952,7 @@ BEGIN:VEVENT
 SUMMARY:Japan 🇯🇵 - 🇸🇪 Sweden (Match 3 - Group F)
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:1159c8fb-233c-8dd4-405b-fc3e2a64134e
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021471\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1923,7 +1971,7 @@ BEGIN:VEVENT
 SUMMARY:Paraguay 🇵🇾 - 🇦🇺 Australia (Match 3 - Group D)
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:1a15d5b6-e662-a803-e71e-257e9a376f4a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021461\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1942,7 +1990,7 @@ BEGIN:VEVENT
 SUMMARY:Turkey 🇹🇷 - 🇺🇸 USA (Match 3 - Group D)
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:eecd8e96-f30b-e1d1-a20f-492dedfa09e3
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021459\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1961,7 +2009,7 @@ BEGIN:VEVENT
 SUMMARY:Norway 🇳🇴 - 🇫🇷 France (Match 3 - Group I)
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:d0f3c3e9-4ca7-34f5-896d-f4c43962d34b
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021489\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -1980,12 +2028,12 @@ BEGIN:VEVENT
 SUMMARY:Senegal 🇸🇳 - 🇮🇶 Iraq (Match 3 - Group I)
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:65686a7a-db52-84de-27ea-7a1857153bb3
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021493\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/iraq-senegal/j5IhOwop/\nAverage odds: 
- 1.31/5.04/9.82\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (ht
+ 1.31/5.05/9.86\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (ht
  tps://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup?c
  mpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A
  %3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https://telemundo
@@ -1999,12 +2047,12 @@ BEGIN:VEVENT
 SUMMARY:Uruguay 🇺🇾 - 🇪🇸 Spain (Match 3 - Group H)
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:05fc994e-7e7e-6fc1-8eec-25a387298062
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021484\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/spain-uruguay/8xM154oS/\nAverage odds:
-  5.91/4.16/1.53\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (h
+  5.94/4.16/1.53\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (h
  ttps://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup?
  cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3
  A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:/
@@ -2018,12 +2066,12 @@ BEGIN:VEVENT
 SUMMARY:Cape Verde 🇨🇻 - 🇸🇦 Saudi Arabia (Match 3 - Group H)
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:a5955169-ea55-1201-e297-be9fbb4766d9
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021485\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/cape-verde-saudi-arabia/487Xar9k/\nAve
- rage odds: 2.73/3.71/2.36\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemu
+ rage odds: 2.72/3.69/2.37\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemu
  ndo App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-
  world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asr
  c%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https:
@@ -2037,26 +2085,26 @@ BEGIN:VEVENT
 SUMMARY:New Zealand 🇳🇿 - 🇧🇪 Belgium (Match 3 - Group G)
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:7cf43fb4-9465-1078-5381-fff8b59a4450
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021481\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/belgium-new-zealand/jwT97ZAb/\nAverage
-  odds: 11.84/6.1/1.22\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo 
- App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-worl
- d-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3D
- FIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https://te
- lemundo.com)\nTelexitos (https://www.telexitos.com/)\nFOX (https://www.fox
- .com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3
- Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\
- nhttps://www.livesoccertv.com/competitions/international/world-cup/
+  odds: 12.31/6.12/1.22\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo
+  App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-wor
+ ld-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3
+ DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https://t
+ elemundo.com)\nTelexitos (https://www.telexitos.com/)\nFOX (https://www.fo
+ x.com/soccer/fifa-world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%
+ 3Dreferral%3A%3Asrc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)
+ \nhttps://www.livesoccertv.com/competitions/international/world-cup/
 LOCATION:BC Place Stadium (Vancouver)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Egypt 🇪🇬 - 🇮🇷 Iran (Match 3 - Group G)
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:b9213a52-0af7-3353-f73a-72e95325d9ed
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021479\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -2076,12 +2124,12 @@ SUMMARY:Panama 🇵🇦 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (Match 3 - G
  roup L)
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:ead7941f-752d-ad7a-12bf-5753f9aebbf9
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021508\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/england-panama/YZajsXcn/\nAverage odds
- : 9.46/6.39/1.26\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
+ : 9.58/6.38/1.25\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App (
  https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cup
  ?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%
  3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (https:
@@ -2095,7 +2143,7 @@ BEGIN:VEVENT
 SUMMARY:Croatia 🇭🇷 - 🇬🇭 Ghana (Match 3 - Group L)
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:5a573340-12ef-dd36-e5ae-d647c19da3c1
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021509\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
@@ -2114,12 +2162,12 @@ BEGIN:VEVENT
 SUMMARY:Colombia 🇨🇴 - 🇵🇹 Portugal (Match 3 - Group K)
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:e6058669-95fc-88d6-c9fa-6e6be0ad771c
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021505\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/colombia-portugal/vL2qotaK/\nAverage o
- dds: 3.43/3.32/2.12\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo Ap
+ dds: 3.43/3.33/2.12\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo Ap
  p (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-
  cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFI
  FA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (htt
@@ -2134,12 +2182,12 @@ SUMMARY:Democratic Republic of the Congo 🇨🇩 - 🇺🇿 Uzbekistan (Ma
  tch 3 - Group K)
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:b090691a-fef4-47ab-b0f8-6bec8bb030dd
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021500\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/d-r-congo-uzbekistan/hEWfCwid/\nAverag
- e odds: 2.13/3.54/3.25\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo
+ e odds: 2.12/3.56/3.26\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo
   App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-wor
  ld-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3
  DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https://t
@@ -2153,12 +2201,12 @@ BEGIN:VEVENT
 SUMMARY:Jordan 🇯🇴 - 🇦🇷 Argentina (Match 3 - Group J)
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:922c1ee4-f863-a9fb-55df-390f7cc6af4a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021495\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/argentina-jordan/KAnAWtpR/\nAverage od
- ds: 13.09/6.65/1.2\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App
+ ds: 12.99/6.67/1.2\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App
   (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-c
  up?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIF
  A%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network (http
@@ -2172,12 +2220,12 @@ BEGIN:VEVENT
 SUMMARY:Algeria 🇩🇿 - 🇦🇹 Austria (Match 3 - Group J)
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:4fb91e74-29ac-3242-2e6c-9c13aeebff9a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289273/400021497\n\nODDS\nBetExplorer: https://www.betexplorer.com/foo
  tball/world/world-championship-2026/algeria-austria/4rOtRK7l/\nAverage odd
- s: 2.99/3.02/2.52\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App 
+ s: 3.03/3.01/2.48\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemundo App 
  (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-world-cu
  p?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA
  %3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nUniverso (https://telemu
@@ -2191,7 +2239,7 @@ BEGIN:VEVENT
 SUMMARY:2A - 2B (Round of 32 (73))
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:8f3e0889-b48e-cbbe-d95e-99e48abbd848
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021518\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2208,7 +2256,7 @@ BEGIN:VEVENT
 SUMMARY:1C - 2F (Round of 32 (76))
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:3ae6911a-ca33-227f-b10c-07a071c03441
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021516\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2225,7 +2273,7 @@ BEGIN:VEVENT
 SUMMARY:1E - 3ABCDF (Round of 32 (74))
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:8a0fe1c9-aa7a-2e92-be9f-c4527d856fb4
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021513\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2242,7 +2290,7 @@ BEGIN:VEVENT
 SUMMARY:1F - 2C (Round of 32 (75))
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:97180fce-97ed-9d4a-d345-654a9b2a1f98
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021522\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2259,7 +2307,7 @@ BEGIN:VEVENT
 SUMMARY:2E - 2I (Round of 32 (78))
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:934e916d-b388-82ea-a6bd-3059b64c11e4
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021514\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2276,7 +2324,7 @@ BEGIN:VEVENT
 SUMMARY:1I - 3CDFGH (Round of 32 (77))
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:832c07e7-d42a-2c9a-654d-5d95e8f5323a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021523\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2293,7 +2341,7 @@ BEGIN:VEVENT
 SUMMARY:1A - 3CEFHI (Round of 32 (79))
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:27ef886f-7df2-f4fa-345b-0c40ec2e0d19
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021520\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2310,7 +2358,7 @@ BEGIN:VEVENT
 SUMMARY:1L - 3EHIJK (Round of 32 (80))
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:66145f3c-7f90-4299-fabc-eaa0b46a72b1
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021512\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2327,7 +2375,7 @@ BEGIN:VEVENT
 SUMMARY:1G - 3AEHIJ (Round of 32 (82))
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:a1d9a47a-c9b1-bba6-13d1-d542483d1359
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021525\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2344,7 +2392,7 @@ BEGIN:VEVENT
 SUMMARY:1D - 3BEFIJ (Round of 32 (81))
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:a05c9d8d-afca-8c88-ed7e-c6e9370966c3
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021524\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2361,7 +2409,7 @@ BEGIN:VEVENT
 SUMMARY:1H - 2J (Round of 32 (84))
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:795e6967-2d8c-b5a6-455e-9dba92a08062
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021519\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2378,7 +2426,7 @@ BEGIN:VEVENT
 SUMMARY:2K - 2L (Round of 32 (83))
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:de117a8d-f97e-5497-4fb7-a19b82e45fa8
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021526\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2395,7 +2443,7 @@ BEGIN:VEVENT
 SUMMARY:1B - 3EFGIJ (Round of 32 (85))
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:6bbc7ce7-1101-b3ae-4793-93fd7cf0ce1a
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021527\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2412,7 +2460,7 @@ BEGIN:VEVENT
 SUMMARY:2D - 2G (Round of 32 (88))
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:667bdd5e-792d-3f0d-5d43-79b50c0fd042
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021515\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2429,7 +2477,7 @@ BEGIN:VEVENT
 SUMMARY:1J - 2H (Round of 32 (86))
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:66738b46-e4fc-4029-0863-f410e26a274d
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021521\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2446,7 +2494,7 @@ BEGIN:VEVENT
 SUMMARY:1K - 3DEIJL (Round of 32 (87))
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:5efa0611-4cef-27b9-640b-6440cda7eea4
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289287/400021517\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2463,7 +2511,7 @@ BEGIN:VEVENT
 SUMMARY:W73 - W75 (Round of 16 (90))
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:4023010a-3149-9ad9-e872-f03c19519659
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021530\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2480,7 +2528,7 @@ BEGIN:VEVENT
 SUMMARY:W74 - W77 (Round of 16 (89))
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:9b6c4035-a4d7-cbba-f28b-9938d88dfa31
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021533\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2497,7 +2545,7 @@ BEGIN:VEVENT
 SUMMARY:W76 - W78 (Round of 16 (91))
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:d6d270ed-6f7b-1af9-dcbe-9737ad896534
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021532\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2514,7 +2562,7 @@ BEGIN:VEVENT
 SUMMARY:W79 - W80 (Round of 16 (92))
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:e0aa5362-2077-c447-9766-a44211ef35ba
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021531\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2531,7 +2579,7 @@ BEGIN:VEVENT
 SUMMARY:W83 - W84 (Round of 16 (93))
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:fd9d210c-cfa8-c4a8-0879-efd6603ff3a0
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021529\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2548,7 +2596,7 @@ BEGIN:VEVENT
 SUMMARY:W81 - W82 (Round of 16 (94))
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:df3e7a3a-0c97-fcbf-6b30-c5907783b347
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021534\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2565,7 +2613,7 @@ BEGIN:VEVENT
 SUMMARY:W86 - W88 (Round of 16 (95))
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:710227d9-b453-e388-c17c-2f53140b67a1
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289288/400021528\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2582,16 +2630,16 @@ BEGIN:VEVENT
 SUMMARY:W85 - W87 (Round of 16 (96))
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:4fbf573f-417a-a7c1-ee60-a98010f0dc1b
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
- 023/289288/400021535\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
- do App (https://telemundo.com)\nFOX One (https://www.fox.com/soccer/fifa-w
- orld-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc
- %3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Network
-  (https://telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup?c
- mpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%3A
- %3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nhttps://www.livesoccertv.co
+ 023/289288/400021535\n\n\n\n\nTV\nFOX One (https://www.fox.com/soccer/fifa
+ -world-cup?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3As
+ rc%3DFIFA%3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af128)\nTelemundo Netwo
+ rk (https://telemundo.com)\nFOX (https://www.fox.com/soccer/fifa-world-cup
+ ?cmpid=org%3Done%3A%3Aag%3Dpartnership%3A%3Amc%3Dreferral%3A%3Asrc%3DFIFA%
+ 3A%3Acmp%3D110_o2_th1%3A%3Acont%3Dm3_tp8_af122)\nPeacock (https://peacockt
+ v.com)\nTelemundo App (https://telemundo.com)\nhttps://www.livesoccertv.co
  m/competitions/international/world-cup/
 LOCATION:BC Place Stadium (Vancouver)
 END:VEVENT
@@ -2599,7 +2647,7 @@ BEGIN:VEVENT
 SUMMARY:W89 - W90 (Quarter Final (97))
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:1dc12401-62ed-be31-e4f4-65777a24ae20
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289289/400021536\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2616,7 +2664,7 @@ BEGIN:VEVENT
 SUMMARY:W93 - W94 (Quarter Final (98))
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:48bcf9aa-d1dd-c9d5-3f0f-5099fd1434b8
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289289/400021538\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2633,7 +2681,7 @@ BEGIN:VEVENT
 SUMMARY:W91 - W92 (Quarter Final (99))
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:c267b677-1be3-e08c-7b8f-a6434a42e3d3
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289289/400021539\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2650,7 +2698,7 @@ BEGIN:VEVENT
 SUMMARY:W95 - W96 (Quarter Final (100))
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:fc47b747-a524-699a-8e26-147e3461cd96
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289289/400021537\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2667,7 +2715,7 @@ BEGIN:VEVENT
 SUMMARY:W97 - W98 (Semi Final (101))
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:25598dfe-cd75-5172-28bb-55d7c1466ed3
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289290/400021541\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2684,7 +2732,7 @@ BEGIN:VEVENT
 SUMMARY:W99 - W100 (Semi Final (102))
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:a92258e6-2c30-d89b-ea46-e1e91d067f6c
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289290/400021540\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2701,7 +2749,7 @@ BEGIN:VEVENT
 SUMMARY:RU101 - RU102 (Third Place (103))
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:de494651-a960-c7fe-a410-4a4e234be4b5
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289291/400021542\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
@@ -2718,7 +2766,7 @@ BEGIN:VEVENT
 SUMMARY:W101 - W102 (Final (104))
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
-DTSTAMP:20260618T072511Z
+DTSTAMP:20260618T113117Z
 UID:f064ffbc-ca5f-8cfd-422d-af5dfda8e12e
 DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
  023/289292/400021543\n\n\n\n\nTV\nPeacock (https://peacocktv.com)\nTelemun
