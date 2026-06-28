@@ -47,7 +47,7 @@ COUNTRY_RENAMES = {
 # Sorted by name length descending at build time to avoid substring collisions
 # (e.g. "D.R. Congo" must match before a hypothetical shorter "Congo")
 _FLAGS_RAW: dict[str, str] = {
-    "Democratic Republic of the Congo": "🇨🇩",
+    # "Democratic Republic of the Congo": "🇨🇩",
     "Bosnia and Herzegovina": "🇧🇦",
     "Trinidad and Tobago": "🇹🇹",
     "Antigua and Barbuda": "🇦🇬",
@@ -65,7 +65,8 @@ _FLAGS_RAW: dict[str, str] = {
     "New Zealand": "🇳🇿",
     "North Korea": "🇰🇵",
     "El Salvador": "🇸🇻",
-    "D.R. Congo": "🇨🇩",
+    # "D.R. Congo": "🇨🇩",
+    "Congo DR": "🇨🇩",
     "Costa Rica": "🇨🇷",
     "Cape Verde": "🇨🇻",
     "Netherlands": "🇳🇱",

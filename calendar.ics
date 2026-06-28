@@ -988,7 +988,7 @@ DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
 LOCATION:Levi's Stadium (Santa Clara)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portugal 🇵🇹 1 - 1 Congo DR (Round 1 - Group K)
+SUMMARY:Portugal 🇵🇹 1 - 1 🇨🇩 Congo DR (Round 1 - Group K)
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 DTSTAMP:20260627T231329Z
@@ -2270,7 +2270,7 @@ DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
 LOCATION:BMO Field (Toronto)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colombia 🇨🇴 1 - 0 Congo DR (Round 2 - Group K)
+SUMMARY:Colombia 🇨🇴 1 - 0 🇨🇩 Congo DR (Round 2 - Group K)
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 DTSTAMP:20260627T231329Z
@@ -3300,7 +3300,7 @@ DESCRIPTION:Official URL: https://www.fifa.com/en/match-centre/match/17/285
 LOCATION:Hard Rock Stadium (Miami Gardens)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congo DR - 🇺🇿 Uzbekistan (Round 3 - Group K)
+SUMMARY:Congo DR 🇨🇩 - 🇺🇿 Uzbekistan (Round 3 - Group K)
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 DTSTAMP:20260627T231329Z
