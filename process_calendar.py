@@ -40,7 +40,7 @@ COUNTRY_RENAMES = {
     "Croatia": "Hrvatska",
     "Austria": "Österreich",
     "Panama": "Panamá",
-    "Democratic Republic of the Congo": "Congo DR",
+    "Democratic Republic of the Congo": "RD Congo",
     "Turkey": "Türkiye",
 }
 
@@ -66,7 +66,7 @@ _FLAGS_RAW: dict[str, str] = {
     "North Korea": "🇰🇵",
     "El Salvador": "🇸🇻",
     # "D.R. Congo": "🇨🇩",
-    "Congo DR": "🇨🇩",
+    "RD Congo": "🇨🇩",
     "Costa Rica": "🇨🇷",
     "Cape Verde": "🇨🇻",
     "Netherlands": "🇳🇱",
