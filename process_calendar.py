@@ -22,6 +22,26 @@ OUTPUT_FILE = Path("calendar.ics")
 COUNTRY_RENAMES = {
     "Ivory Coast": "Côte d'Ivoire",
     "Curacao": "Curaçao",
+    "Mexico": "México",
+    "Czech Republic": "Česká Republika",
+    "South Korea":"Korea Republic",
+    "Bosnia and Herzegovina":"Bosna i Hercegovina",
+    "Brazil":"Brasil",
+    "Morocco":"Maroc",
+    "Germany":"Deutschland",
+    "Netherlands":"Nederland",
+    "Sweden":"Sverige",
+    "Tunisia":"Tunisie",
+    "Spain":"España",
+    "Belgium":"Belgique/België",
+    "Cape Verde":"Cabo Verde",
+    "Norway":"Norge",
+    "Algeria":"Algérie",
+    "Croatia":"Hrvatska",
+    "Austria":"Österreich",
+    "Panama":"Panamá",
+    "Democratic Republic of the Congo":"Congo DR",
+    "Turkey":"Türkiye",
 }
 
 # Sorted by name length descending at build time to avoid substring collisions
